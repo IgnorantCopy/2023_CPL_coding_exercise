@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="2023_CPL_coding_exercise" targetName="Time" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Equation" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Pi" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Ascii" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Change" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Gravity" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Julian" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0965c82b-f269-47ca-be49-869503fc0067" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Ascii.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Change.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Equation.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Gravity.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Julian.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Pi.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Lesson1/Time.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Lesson2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2WTUQVS97imxKpz5XZt446951D1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codes\2023_CPL_coding_exercise\01-Lesson1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Ascii">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ascii" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Ascii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Ascii">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Change" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Change" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Change">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Equation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Equation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Equation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gravity" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Gravity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Gravity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Julian" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Julian" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Julian">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Pi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Pi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Time" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Time" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Time">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Ascii" />
+      <item itemvalue="CMake Application.Change" />
+      <item itemvalue="CMake Application.Equation" />
+      <item itemvalue="CMake Application.Gravity" />
+      <item itemvalue="CMake Application.Julian" />
+      <item itemvalue="CMake Application.Pi" />
+      <item itemvalue="CMake Application.Time" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0965c82b-f269-47ca-be49-869503fc0067" name="Changes" comment="" />
+      <created>1696756047341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696756047341</updated>
+      <workItem from="1696756048526" duration="555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

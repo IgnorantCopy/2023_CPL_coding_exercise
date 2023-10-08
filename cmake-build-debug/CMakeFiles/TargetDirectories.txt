@@ -1,0 +1,13 @@
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Ascii.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Change.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Equation.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Gravity.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Julian.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Pi.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Time.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/02-Lesson2/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/02-Lesson2/CMakeFiles/rebuild_cache.dir
