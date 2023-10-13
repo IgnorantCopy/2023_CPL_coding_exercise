@@ -1,0 +1,21 @@
+# ninja log v5
+0	72	7184794115719213	02-Lesson2/CMakeFiles/Single.dir/Single.c.obj	103234ea2693dbe9
+73	160	7184794116571149	02-Lesson2/Single.exe	bad0cc5b319e3c8a
+1	65	7185439610347497	02-Lesson2/CMakeFiles/Inverse.dir/Inverse.c.obj	76c4620e581587d5
+1	60	7184820556303139	02-Lesson2/CMakeFiles/Factorial.dir/Factorial.c.obj	4326c72ec521378
+1	68	7185295628345230	02-Lesson2/CMakeFiles/Collatz.dir/Collatz.c.obj	7442555430ea1f92
+60	143	7184820557103376	02-Lesson2/Factorial.exe	851976550038177a
+70	156	7184824168808093	02-Lesson2/Series.exe	fc847a3280a038bb
+68	151	7185295629155178	02-Lesson2/Collatz.exe	8a6b40bfad55d85
+0	69	7184824167979515	02-Lesson2/CMakeFiles/Series.dir/Series.c.obj	1a7fdbf1b5cc13ed
+65	156	7185439611224312	02-Lesson2/Inverse.exe	fe6bd1d416c10224
+1	61	7185450643090373	02-Lesson2/CMakeFiles/abc.dir/abc.c.obj	8c31f99fd7d1ce33
+62	148	7185450643928106	02-Lesson2/abc.exe	6a1a4f0a5f0375f4
+1	59	7185477132927828	02-Lesson2/CMakeFiles/StandUp.dir/StandUp.c.obj	8ee9be273455946c
+59	142	7185477133734002	02-Lesson2/StandUp.exe	13ceb90ca4f88979
+2	75	7187765452166174	_BonusQuestion/CMakeFiles/Factorial2.dir/Factorial2.c.obj	4a47bab3dbfaf088
+76	171	7187765453088581	_BonusQuestion/Factorial2.exe	86690a44129e2741
+1	729	7187898972217456	_BonusQuestion/CMakeFiles/Eratosthenes.dir/Eratosthenes.c.obj	c04c11df1c025772
+729	3021	7187898995105686	_BonusQuestion/Eratosthenes.exe	9b83bc67a30c6946
+1	61	7187918228176935	_BonusQuestion/CMakeFiles/PrimeNumber.dir/PrimeNumber.c.obj	1ffd1aba956927b1
+61	148	7187918229015420	_BonusQuestion/PrimeNumber.exe	bf3e4e984637f1de

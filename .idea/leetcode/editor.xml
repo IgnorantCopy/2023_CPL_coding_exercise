@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[13]罗马数字转整数.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/doc/content/[13]罗马数字转整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn13" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[13]罗马数字转整数.c" />
+              <option name="titleSlug" value="roman-to-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[2037]使每位学生都有座位的最少移动次数.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/doc/content/[2037]使每位学生都有座位的最少移动次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2037" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[2037]使每位学生都有座位的最少移动次数.c" />
+              <option name="titleSlug" value="minimum-number-of-moves-to-seat-everyone" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

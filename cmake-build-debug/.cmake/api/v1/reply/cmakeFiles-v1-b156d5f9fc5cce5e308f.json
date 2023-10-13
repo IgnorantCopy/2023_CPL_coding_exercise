@@ -106,6 +106,15 @@
 		},
 		{
 			"path" : "02-Lesson2/CMakeLists.txt"
+		},
+		{
+			"path" : "_LeetCode/CMakeLists.txt"
+		},
+		{
+			"path" : "_LeetCode/String/CMakeLists.txt"
+		},
+		{
+			"path" : "_BonusQuestion/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

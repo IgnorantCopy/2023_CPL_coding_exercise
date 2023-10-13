@@ -5,3 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_subdirectory(01-Lesson1)
 add_subdirectory(02-Lesson2)
+add_subdirectory(_LeetCode)
+add_subdirectory(_BonusQuestion)
