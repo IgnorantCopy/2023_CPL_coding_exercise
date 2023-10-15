@@ -11,7 +11,8 @@
 						1,
 						2,
 						3,
-						5
+						5,
+						6
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -34,12 +35,12 @@
 					"targetIndexes" : 
 					[
 						1,
-						2,
-						4,
-						7,
-						9,
-						11,
-						16
+						5,
+						8,
+						12,
+						15,
+						18,
+						24
 					]
 				},
 				{
@@ -54,12 +55,12 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						3,
-						5,
-						8,
+						6,
+						9,
 						13,
-						14,
-						15
+						21,
+						22,
+						23
 					]
 				},
 				{
@@ -104,9 +105,49 @@
 					"source" : "_BonusQuestion",
 					"targetIndexes" : 
 					[
-						6,
 						10,
-						12
+						19
+					]
+				},
+				{
+					"build" : "03-Lesson3",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-03-Lesson3-Debug-c5720add44ea920e813c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "03-Lesson3",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						11,
+						14,
+						16
+					]
+				},
+				{
+					"build" : "03-Lesson3/Bonus",
+					"jsonFile" : "directory-03-Lesson3.Bonus-Debug-10b88052cbc6c569ba69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "03-Lesson3/Bonus",
+					"targetIndexes" : 
+					[
+						7,
+						17,
+						20
 					]
 				}
 			],
@@ -121,7 +162,9 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6,
+						7
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -142,7 +185,15 @@
 						13,
 						14,
 						15,
-						16
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
 					]
 				}
 			],
@@ -163,6 +214,27 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 6,
+					"id" : "BalanceTernary1::@5c85bd6f1ac7de48981d",
+					"jsonFile" : "target-BalanceTernary1-Debug-b27a28cef1260f45d01c.json",
+					"name" : "BalanceTernary1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "BalanceTernary2::@5c85bd6f1ac7de48981d",
+					"jsonFile" : "target-BalanceTernary2-Debug-4c081c3fb673131d7faa.json",
+					"name" : "BalanceTernary2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "BubbleSort::@5c85bd6f1ac7de48981d",
+					"jsonFile" : "target-BubbleSort-Debug-3fe95c32824483524f4a.json",
+					"name" : "BubbleSort",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Change::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Change-Debug-1f542140e097abda886f.json",
@@ -174,6 +246,13 @@
 					"id" : "Collatz::@225c51db256cbe500fae",
 					"jsonFile" : "target-Collatz-Debug-aa18bca8d990cdbff2b2.json",
 					"name" : "Collatz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Decimal::@84f88f14273577c67f1e",
+					"jsonFile" : "target-Decimal-Debug-700ab501a654072f7a28.json",
+					"name" : "Decimal",
 					"projectIndex" : 0
 				},
 				{
@@ -198,6 +277,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 6,
+					"id" : "Flip::@5c85bd6f1ac7de48981d",
+					"jsonFile" : "target-Flip-Debug-7e7dfae9d503beaabd56.json",
+					"name" : "Flip",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Gravity::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Gravity-Debug-46d592af3e2da396dc31.json",
@@ -212,6 +298,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 6,
+					"id" : "Josephus::@5c85bd6f1ac7de48981d",
+					"jsonFile" : "target-Josephus-Debug-2bb7a000e6fd464f73ef.json",
+					"name" : "Josephus",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Julian::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Julian-Debug-88212949e7509cc29911.json",
@@ -219,10 +312,17 @@
 					"projectIndex" : 0
 				},
 				{
-					"directoryIndex" : 5,
-					"id" : "Name::@852bce7720a7d0d586a3",
-					"jsonFile" : "target-Name-Debug-303791271f5e65334987.json",
-					"name" : "Name",
+					"directoryIndex" : 6,
+					"id" : "Palindrome1::@5c85bd6f1ac7de48981d",
+					"jsonFile" : "target-Palindrome1-Debug-08831414f64c251f888e.json",
+					"name" : "Palindrome1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Palindrome2::@84f88f14273577c67f1e",
+					"jsonFile" : "target-Palindrome2-Debug-9b1b684dcaba001fec8b.json",
+					"name" : "Palindrome2",
 					"projectIndex" : 0
 				},
 				{
@@ -237,6 +337,13 @@
 					"id" : "PrimeNumber::@852bce7720a7d0d586a3",
 					"jsonFile" : "target-PrimeNumber-Debug-fcce829af47268af5954.json",
 					"name" : "PrimeNumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickSort::@84f88f14273577c67f1e",
+					"jsonFile" : "target-QuickSort-Debug-2ac98aec3995b94a74e1.json",
+					"name" : "QuickSort",
 					"projectIndex" : 0
 				},
 				{

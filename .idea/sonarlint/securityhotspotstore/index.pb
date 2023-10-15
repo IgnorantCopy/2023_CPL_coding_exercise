@@ -48,3 +48,25 @@ K
 _BonusQuestion/Factorial2.c,4\f\4f711fe4f9d9e7290e49c2ef1f59ddc4ecf12663
 L
 _BonusQuestion/PrimeNumber.c,c\8\c8503a80b17e40df10cb2519c12b60f753c2d939
+H
+03-Lesson3/Palindrome1.c,1\3\13c93cd53a1795af72fa4edb683d309e3b65dda1
+A
+03-Lesson3/Flip.c,b\9\b9838ce8539ff7d8660ae00c51848f663c15ea69
+I
+03-Lesson3/CMakeLists.txt,3\0\305e42d637f52df85e84a4c5ecf2da720dbc8a77
+L
+03-Lesson3/BalanceTernary1.c,9\7\97ecc9406f3d7d0243601ed684aab3bfbc7cda04
+L
+03-Lesson3/BalanceTernary2.c,7\f\7ff780d28482a30c73c601e5e80b4ce94a651742
+E
+03-Lesson3/Josephus.c,f\5\f5b814d7aace48be56fff25268b6ab6fb8699142
+G
+03-Lesson3/BubbleSort.c,8\f\8f4620662081d9f2f5da3a7617efa5cf051bae14
+O
+03-Lesson3/Bonus/CMakeLists.txt,5\e\5e1250c991252483b225d0f14ddfa63ec243d139
+J
+03-Lesson3/Bonus/Decimal.c,8\d\8dd23cc9ac9079abba9eda77f8e3cfb39b15509d
+N
+03-Lesson3/Bonus/Palindrome2.c,6\2\624d5a39b352e07f06b26614900a66e455ac4e76
+L
+03-Lesson3/Bonus/QuickSort.c,5\f\5f7d3a9b939b0b13576e45b8c64592c59e1fbe66

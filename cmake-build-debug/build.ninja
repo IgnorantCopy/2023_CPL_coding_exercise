@@ -708,39 +708,6 @@ build _BonusQuestion/PrimeNumber.exe: C_EXECUTABLE_LINKER__PrimeNumber_Debug _Bo
   TARGET_IMPLIB = _BonusQuestion\libPrimeNumber.dll.a
   TARGET_PDB = PrimeNumber.exe.dbg
 
-# =============================================================================
-# Object build statements for EXECUTABLE target Name
-
-
-#############################################
-# Order-only phony target for Name
-
-build cmake_object_order_depends_target_Name: phony || _BonusQuestion/CMakeFiles/Name.dir
-
-build _BonusQuestion/CMakeFiles/Name.dir/Name.c.obj: C_COMPILER__Name_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/Name.c || cmake_object_order_depends_target_Name
-  DEP_FILE = _BonusQuestion\CMakeFiles\Name.dir\Name.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = _BonusQuestion\CMakeFiles\Name.dir
-  OBJECT_FILE_DIR = _BonusQuestion\CMakeFiles\Name.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Name
-
-
-#############################################
-# Link the executable _BonusQuestion\Name.exe
-
-build _BonusQuestion/Name.exe: C_EXECUTABLE_LINKER__Name_Debug _BonusQuestion/CMakeFiles/Name.dir/Name.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = _BonusQuestion\CMakeFiles\Name.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = _BonusQuestion\Name.exe
-  TARGET_IMPLIB = _BonusQuestion\libName.dll.a
-  TARGET_PDB = Name.exe.dbg
-
 
 #############################################
 # Utility command for edit_cache
@@ -765,6 +732,359 @@ build _BonusQuestion/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build _BonusQuestion/rebuild_cache: phony _BonusQuestion/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/codes/2023_CPL_coding_exercise/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Palindrome1
+
+
+#############################################
+# Order-only phony target for Palindrome1
+
+build cmake_object_order_depends_target_Palindrome1: phony || 03-Lesson3/CMakeFiles/Palindrome1.dir
+
+build 03-Lesson3/CMakeFiles/Palindrome1.dir/Palindrome1.c.obj: C_COMPILER__Palindrome1_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Palindrome1.c || cmake_object_order_depends_target_Palindrome1
+  DEP_FILE = 03-Lesson3\CMakeFiles\Palindrome1.dir\Palindrome1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\Palindrome1.dir
+  OBJECT_FILE_DIR = 03-Lesson3\CMakeFiles\Palindrome1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Palindrome1
+
+
+#############################################
+# Link the executable 03-Lesson3\Palindrome1.exe
+
+build 03-Lesson3/Palindrome1.exe: C_EXECUTABLE_LINKER__Palindrome1_Debug 03-Lesson3/CMakeFiles/Palindrome1.dir/Palindrome1.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\Palindrome1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\Palindrome1.exe
+  TARGET_IMPLIB = 03-Lesson3\libPalindrome1.dll.a
+  TARGET_PDB = Palindrome1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Flip
+
+
+#############################################
+# Order-only phony target for Flip
+
+build cmake_object_order_depends_target_Flip: phony || 03-Lesson3/CMakeFiles/Flip.dir
+
+build 03-Lesson3/CMakeFiles/Flip.dir/Flip.c.obj: C_COMPILER__Flip_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Flip.c || cmake_object_order_depends_target_Flip
+  DEP_FILE = 03-Lesson3\CMakeFiles\Flip.dir\Flip.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\Flip.dir
+  OBJECT_FILE_DIR = 03-Lesson3\CMakeFiles\Flip.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Flip
+
+
+#############################################
+# Link the executable 03-Lesson3\Flip.exe
+
+build 03-Lesson3/Flip.exe: C_EXECUTABLE_LINKER__Flip_Debug 03-Lesson3/CMakeFiles/Flip.dir/Flip.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\Flip.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\Flip.exe
+  TARGET_IMPLIB = 03-Lesson3\libFlip.dll.a
+  TARGET_PDB = Flip.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target BalanceTernary1
+
+
+#############################################
+# Order-only phony target for BalanceTernary1
+
+build cmake_object_order_depends_target_BalanceTernary1: phony || 03-Lesson3/CMakeFiles/BalanceTernary1.dir
+
+build 03-Lesson3/CMakeFiles/BalanceTernary1.dir/BalanceTernary1.c.obj: C_COMPILER__BalanceTernary1_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/BalanceTernary1.c || cmake_object_order_depends_target_BalanceTernary1
+  DEP_FILE = 03-Lesson3\CMakeFiles\BalanceTernary1.dir\BalanceTernary1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\BalanceTernary1.dir
+  OBJECT_FILE_DIR = 03-Lesson3\CMakeFiles\BalanceTernary1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BalanceTernary1
+
+
+#############################################
+# Link the executable 03-Lesson3\BalanceTernary1.exe
+
+build 03-Lesson3/BalanceTernary1.exe: C_EXECUTABLE_LINKER__BalanceTernary1_Debug 03-Lesson3/CMakeFiles/BalanceTernary1.dir/BalanceTernary1.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\BalanceTernary1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\BalanceTernary1.exe
+  TARGET_IMPLIB = 03-Lesson3\libBalanceTernary1.dll.a
+  TARGET_PDB = BalanceTernary1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target BalanceTernary2
+
+
+#############################################
+# Order-only phony target for BalanceTernary2
+
+build cmake_object_order_depends_target_BalanceTernary2: phony || 03-Lesson3/CMakeFiles/BalanceTernary2.dir
+
+build 03-Lesson3/CMakeFiles/BalanceTernary2.dir/BalanceTernary2.c.obj: C_COMPILER__BalanceTernary2_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/BalanceTernary2.c || cmake_object_order_depends_target_BalanceTernary2
+  DEP_FILE = 03-Lesson3\CMakeFiles\BalanceTernary2.dir\BalanceTernary2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\BalanceTernary2.dir
+  OBJECT_FILE_DIR = 03-Lesson3\CMakeFiles\BalanceTernary2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BalanceTernary2
+
+
+#############################################
+# Link the executable 03-Lesson3\BalanceTernary2.exe
+
+build 03-Lesson3/BalanceTernary2.exe: C_EXECUTABLE_LINKER__BalanceTernary2_Debug 03-Lesson3/CMakeFiles/BalanceTernary2.dir/BalanceTernary2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\BalanceTernary2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\BalanceTernary2.exe
+  TARGET_IMPLIB = 03-Lesson3\libBalanceTernary2.dll.a
+  TARGET_PDB = BalanceTernary2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Josephus
+
+
+#############################################
+# Order-only phony target for Josephus
+
+build cmake_object_order_depends_target_Josephus: phony || 03-Lesson3/CMakeFiles/Josephus.dir
+
+build 03-Lesson3/CMakeFiles/Josephus.dir/Josephus.c.obj: C_COMPILER__Josephus_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Josephus.c || cmake_object_order_depends_target_Josephus
+  DEP_FILE = 03-Lesson3\CMakeFiles\Josephus.dir\Josephus.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\Josephus.dir
+  OBJECT_FILE_DIR = 03-Lesson3\CMakeFiles\Josephus.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Josephus
+
+
+#############################################
+# Link the executable 03-Lesson3\Josephus.exe
+
+build 03-Lesson3/Josephus.exe: C_EXECUTABLE_LINKER__Josephus_Debug 03-Lesson3/CMakeFiles/Josephus.dir/Josephus.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\Josephus.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\Josephus.exe
+  TARGET_IMPLIB = 03-Lesson3\libJosephus.dll.a
+  TARGET_PDB = Josephus.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target BubbleSort
+
+
+#############################################
+# Order-only phony target for BubbleSort
+
+build cmake_object_order_depends_target_BubbleSort: phony || 03-Lesson3/CMakeFiles/BubbleSort.dir
+
+build 03-Lesson3/CMakeFiles/BubbleSort.dir/BubbleSort.c.obj: C_COMPILER__BubbleSort_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/BubbleSort.c || cmake_object_order_depends_target_BubbleSort
+  DEP_FILE = 03-Lesson3\CMakeFiles\BubbleSort.dir\BubbleSort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\BubbleSort.dir
+  OBJECT_FILE_DIR = 03-Lesson3\CMakeFiles\BubbleSort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BubbleSort
+
+
+#############################################
+# Link the executable 03-Lesson3\BubbleSort.exe
+
+build 03-Lesson3/BubbleSort.exe: C_EXECUTABLE_LINKER__BubbleSort_Debug 03-Lesson3/CMakeFiles/BubbleSort.dir/BubbleSort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\CMakeFiles\BubbleSort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\BubbleSort.exe
+  TARGET_IMPLIB = 03-Lesson3\libBubbleSort.dll.a
+  TARGET_PDB = BubbleSort.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build 03-Lesson3/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\03-Lesson3 && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build 03-Lesson3/edit_cache: phony 03-Lesson3/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build 03-Lesson3/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\03-Lesson3 && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\codes\2023_CPL_coding_exercise -BD:\codes\2023_CPL_coding_exercise\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build 03-Lesson3/rebuild_cache: phony 03-Lesson3/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Decimal
+
+
+#############################################
+# Order-only phony target for Decimal
+
+build cmake_object_order_depends_target_Decimal: phony || 03-Lesson3/Bonus/CMakeFiles/Decimal.dir
+
+build 03-Lesson3/Bonus/CMakeFiles/Decimal.dir/Decimal.c.obj: C_COMPILER__Decimal_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/Decimal.c || cmake_object_order_depends_target_Decimal
+  DEP_FILE = 03-Lesson3\Bonus\CMakeFiles\Decimal.dir\Decimal.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\Bonus\CMakeFiles\Decimal.dir
+  OBJECT_FILE_DIR = 03-Lesson3\Bonus\CMakeFiles\Decimal.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Decimal
+
+
+#############################################
+# Link the executable 03-Lesson3\Bonus\Decimal.exe
+
+build 03-Lesson3/Bonus/Decimal.exe: C_EXECUTABLE_LINKER__Decimal_Debug 03-Lesson3/Bonus/CMakeFiles/Decimal.dir/Decimal.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\Bonus\CMakeFiles\Decimal.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\Bonus\Decimal.exe
+  TARGET_IMPLIB = 03-Lesson3\Bonus\libDecimal.dll.a
+  TARGET_PDB = Decimal.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Palindrome2
+
+
+#############################################
+# Order-only phony target for Palindrome2
+
+build cmake_object_order_depends_target_Palindrome2: phony || 03-Lesson3/Bonus/CMakeFiles/Palindrome2.dir
+
+build 03-Lesson3/Bonus/CMakeFiles/Palindrome2.dir/Palindrome2.c.obj: C_COMPILER__Palindrome2_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/Palindrome2.c || cmake_object_order_depends_target_Palindrome2
+  DEP_FILE = 03-Lesson3\Bonus\CMakeFiles\Palindrome2.dir\Palindrome2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\Bonus\CMakeFiles\Palindrome2.dir
+  OBJECT_FILE_DIR = 03-Lesson3\Bonus\CMakeFiles\Palindrome2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Palindrome2
+
+
+#############################################
+# Link the executable 03-Lesson3\Bonus\Palindrome2.exe
+
+build 03-Lesson3/Bonus/Palindrome2.exe: C_EXECUTABLE_LINKER__Palindrome2_Debug 03-Lesson3/Bonus/CMakeFiles/Palindrome2.dir/Palindrome2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\Bonus\CMakeFiles\Palindrome2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\Bonus\Palindrome2.exe
+  TARGET_IMPLIB = 03-Lesson3\Bonus\libPalindrome2.dll.a
+  TARGET_PDB = Palindrome2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target QuickSort
+
+
+#############################################
+# Order-only phony target for QuickSort
+
+build cmake_object_order_depends_target_QuickSort: phony || 03-Lesson3/Bonus/CMakeFiles/QuickSort.dir
+
+build 03-Lesson3/Bonus/CMakeFiles/QuickSort.dir/QuickSort.c.obj: C_COMPILER__QuickSort_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/QuickSort.c || cmake_object_order_depends_target_QuickSort
+  DEP_FILE = 03-Lesson3\Bonus\CMakeFiles\QuickSort.dir\QuickSort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 03-Lesson3\Bonus\CMakeFiles\QuickSort.dir
+  OBJECT_FILE_DIR = 03-Lesson3\Bonus\CMakeFiles\QuickSort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target QuickSort
+
+
+#############################################
+# Link the executable 03-Lesson3\Bonus\QuickSort.exe
+
+build 03-Lesson3/Bonus/QuickSort.exe: C_EXECUTABLE_LINKER__QuickSort_Debug 03-Lesson3/Bonus/CMakeFiles/QuickSort.dir/QuickSort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 03-Lesson3\Bonus\CMakeFiles\QuickSort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 03-Lesson3\Bonus\QuickSort.exe
+  TARGET_IMPLIB = 03-Lesson3\Bonus\libQuickSort.dll.a
+  TARGET_PDB = QuickSort.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build 03-Lesson3/Bonus/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\03-Lesson3\Bonus && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build 03-Lesson3/Bonus/edit_cache: phony 03-Lesson3/Bonus/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build 03-Lesson3/Bonus/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\03-Lesson3\Bonus && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\codes\2023_CPL_coding_exercise -BD:\codes\2023_CPL_coding_exercise\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build 03-Lesson3/Bonus/rebuild_cache: phony 03-Lesson3/Bonus/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build 0013: phony _LeetCode/String/0013.exe
@@ -775,6 +1095,18 @@ build Ascii: phony 01-Lesson1/Ascii.exe
 
 build Ascii.exe: phony 01-Lesson1/Ascii.exe
 
+build BalanceTernary1: phony 03-Lesson3/BalanceTernary1.exe
+
+build BalanceTernary1.exe: phony 03-Lesson3/BalanceTernary1.exe
+
+build BalanceTernary2: phony 03-Lesson3/BalanceTernary2.exe
+
+build BalanceTernary2.exe: phony 03-Lesson3/BalanceTernary2.exe
+
+build BubbleSort: phony 03-Lesson3/BubbleSort.exe
+
+build BubbleSort.exe: phony 03-Lesson3/BubbleSort.exe
+
 build Change: phony 01-Lesson1/Change.exe
 
 build Change.exe: phony 01-Lesson1/Change.exe
@@ -782,6 +1114,10 @@ build Change.exe: phony 01-Lesson1/Change.exe
 build Collatz: phony 02-Lesson2/Collatz.exe
 
 build Collatz.exe: phony 02-Lesson2/Collatz.exe
+
+build Decimal: phony 03-Lesson3/Bonus/Decimal.exe
+
+build Decimal.exe: phony 03-Lesson3/Bonus/Decimal.exe
 
 build Equation: phony 01-Lesson1/Equation.exe
 
@@ -795,6 +1131,10 @@ build Factorial2: phony _BonusQuestion/Factorial2.exe
 
 build Factorial2.exe: phony _BonusQuestion/Factorial2.exe
 
+build Flip: phony 03-Lesson3/Flip.exe
+
+build Flip.exe: phony 03-Lesson3/Flip.exe
+
 build Gravity: phony 01-Lesson1/Gravity.exe
 
 build Gravity.exe: phony 01-Lesson1/Gravity.exe
@@ -803,13 +1143,21 @@ build Inverse: phony 02-Lesson2/Inverse.exe
 
 build Inverse.exe: phony 02-Lesson2/Inverse.exe
 
+build Josephus: phony 03-Lesson3/Josephus.exe
+
+build Josephus.exe: phony 03-Lesson3/Josephus.exe
+
 build Julian: phony 01-Lesson1/Julian.exe
 
 build Julian.exe: phony 01-Lesson1/Julian.exe
 
-build Name: phony _BonusQuestion/Name.exe
+build Palindrome1: phony 03-Lesson3/Palindrome1.exe
 
-build Name.exe: phony _BonusQuestion/Name.exe
+build Palindrome1.exe: phony 03-Lesson3/Palindrome1.exe
+
+build Palindrome2: phony 03-Lesson3/Bonus/Palindrome2.exe
+
+build Palindrome2.exe: phony 03-Lesson3/Bonus/Palindrome2.exe
 
 build Pi: phony 01-Lesson1/Pi.exe
 
@@ -818,6 +1166,10 @@ build Pi.exe: phony 01-Lesson1/Pi.exe
 build PrimeNumber: phony _BonusQuestion/PrimeNumber.exe
 
 build PrimeNumber.exe: phony _BonusQuestion/PrimeNumber.exe
+
+build QuickSort: phony 03-Lesson3/Bonus/QuickSort.exe
+
+build QuickSort.exe: phony 03-Lesson3/Bonus/QuickSort.exe
 
 build Series: phony 02-Lesson2/Series.exe
 
@@ -843,7 +1195,7 @@ build Time.exe: phony 01-Lesson1/Time.exe
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug
 
-build all: phony 01-Lesson1/all 02-Lesson2/all _LeetCode/all _BonusQuestion/all
+build all: phony 01-Lesson1/all 02-Lesson2/all _LeetCode/all _BonusQuestion/all 03-Lesson3/all
 
 # =============================================================================
 
@@ -862,9 +1214,23 @@ build 02-Lesson2/all: phony 02-Lesson2/Single.exe 02-Lesson2/Factorial1.exe 02-L
 # =============================================================================
 
 #############################################
+# Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3
+
+build 03-Lesson3/all: phony 03-Lesson3/Palindrome1.exe 03-Lesson3/Flip.exe 03-Lesson3/BalanceTernary1.exe 03-Lesson3/BalanceTernary2.exe 03-Lesson3/Josephus.exe 03-Lesson3/BubbleSort.exe 03-Lesson3/Bonus/all
+
+# =============================================================================
+
+#############################################
+# Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3/Bonus
+
+build 03-Lesson3/Bonus/all: phony 03-Lesson3/Bonus/Decimal.exe 03-Lesson3/Bonus/Palindrome2.exe 03-Lesson3/Bonus/QuickSort.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion
 
-build _BonusQuestion/all: phony _BonusQuestion/Factorial2.exe _BonusQuestion/PrimeNumber.exe _BonusQuestion/Name.exe
+build _BonusQuestion/all: phony _BonusQuestion/Factorial2.exe _BonusQuestion/PrimeNumber.exe
 
 # =============================================================================
 
@@ -887,14 +1253,14 @@ build _LeetCode/String/all: phony _LeetCode/String/0013.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt: phony
 
 
 #############################################
