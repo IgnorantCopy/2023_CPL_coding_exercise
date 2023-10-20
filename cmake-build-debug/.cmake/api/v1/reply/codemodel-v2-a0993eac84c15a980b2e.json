@@ -34,13 +34,13 @@
 					"source" : "01-Lesson1",
 					"targetIndexes" : 
 					[
-						1,
-						5,
-						8,
-						12,
-						15,
-						18,
-						24
+						2,
+						6,
+						9,
+						13,
+						16,
+						19,
+						26
 					]
 				},
 				{
@@ -55,12 +55,12 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						6,
-						9,
-						13,
-						21,
+						7,
+						10,
+						14,
 						22,
-						23
+						23,
+						24
 					]
 				},
 				{
@@ -105,8 +105,10 @@
 					"source" : "_BonusQuestion",
 					"targetIndexes" : 
 					[
-						10,
-						19
+						1,
+						11,
+						20,
+						25
 					]
 				},
 				{
@@ -125,12 +127,12 @@
 					"source" : "03-Lesson3",
 					"targetIndexes" : 
 					[
-						2,
 						3,
 						4,
-						11,
-						14,
-						16
+						5,
+						12,
+						15,
+						17
 					]
 				},
 				{
@@ -145,9 +147,9 @@
 					"source" : "03-Lesson3/Bonus",
 					"targetIndexes" : 
 					[
-						7,
-						17,
-						20
+						8,
+						18,
+						21
 					]
 				}
 			],
@@ -193,7 +195,9 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25,
+						26
 					]
 				}
 			],
@@ -204,6 +208,13 @@
 					"id" : "0013::@2241142625e5641f78e6",
 					"jsonFile" : "target-0013-Debug-cd7aa49cbd119254d9c8.json",
 					"name" : "0013",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "APlusB::@852bce7720a7d0d586a3",
+					"jsonFile" : "target-APlusB-Debug-899c9481cfb49a97e3f7.json",
+					"name" : "APlusB",
 					"projectIndex" : 0
 				},
 				{
@@ -365,6 +376,13 @@
 					"id" : "StandUp::@225c51db256cbe500fae",
 					"jsonFile" : "target-StandUp-Debug-e239072b179e6e57705a.json",
 					"name" : "StandUp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "SuperCalculator::@852bce7720a7d0d586a3",
+					"jsonFile" : "target-SuperCalculator-Debug-8901895b31dd075ca39a.json",
+					"name" : "SuperCalculator",
 					"projectIndex" : 0
 				},
 				{

@@ -25,11 +25,13 @@
       <config projectName="2023_CPL_coding_exercise" targetName="0013" />
       <config projectName="2023_CPL_coding_exercise" targetName="Flip" />
       <config projectName="2023_CPL_coding_exercise" targetName="BubbleSort" />
+      <config projectName="2023_CPL_coding_exercise" targetName="SuperCalculator" />
       <config projectName="2023_CPL_coding_exercise" targetName="Palindrome1" />
       <config projectName="2023_CPL_coding_exercise" targetName="Equation" />
       <config projectName="2023_CPL_coding_exercise" targetName="Josephus" />
       <config projectName="2023_CPL_coding_exercise" targetName="Ascii" />
       <config projectName="2023_CPL_coding_exercise" targetName="Palindrome2" />
+      <config projectName="2023_CPL_coding_exercise" targetName="APlusB" />
       <config projectName="2023_CPL_coding_exercise" targetName="Julian" />
       <config projectName="2023_CPL_coding_exercise" targetName="Pi" />
       <config projectName="2023_CPL_coding_exercise" targetName="Change" />
@@ -45,26 +47,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0965c82b-f269-47ca-be49-869503fc0067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/BalanceTernary1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/BalanceTernary2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Bonus/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Bonus/Decimal.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Bonus/Palindrome2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Bonus/QuickSort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/BubbleSort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Flip.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Josephus.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Lesson3/Palindrome1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_BonusQuestion/APlusB.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_BonusQuestion/SuperCalculator.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7ff780d28482a30c73c601e5e80b4ce94a651742" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7ff780d28482a30c73c601e5e80b4ce94a651742" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f4620662081d9f2f5da3a7617efa5cf051bae14" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f4620662081d9f2f5da3a7617efa5cf051bae14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c8de5738b74db3bd851c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b156d5f9fc5cce5e308f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7255f630981c0bb00d7c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-13T03-33-26-0682.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Name-Debug-303791271f5e65334987.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_BonusQuestion/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_BonusQuestion/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_BonusQuestion/PrimeNumber.c" beforeDir="false" afterPath="$PROJECT_DIR$/_BonusQuestion/PrimeNumber.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0c3b34a07a3d81c0033b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-15T00-30-08-0830.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
@@ -73,7 +67,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +83,9 @@
         <option value="CMakeLists.txt" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,15 +115,17 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C/C++&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -137,13 +135,13 @@
       <recent name="D:\codes\2023_CPL_coding_exercise\01-Lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.QuickSort">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="CMake Application.PrimeNumber">
+    <configuration name="0013" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="0013" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="0013">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="0013" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="0013" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="0013">
+    <configuration name="APlusB" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="APlusB" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="APlusB">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -263,7 +261,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuperCalculator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="SuperCalculator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="SuperCalculator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Time" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="Time" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="Time">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -291,8 +299,10 @@
       <item itemvalue="CMake Application.Decimal" />
       <item itemvalue="CMake Application.Palindrome2" />
       <item itemvalue="CMake Application.QuickSort" />
+      <item itemvalue="CMake Application.APlusB" />
       <item itemvalue="CMake Application.Factorial2" />
       <item itemvalue="CMake Application.PrimeNumber" />
+      <item itemvalue="CMake Application.SuperCalculator" />
       <item itemvalue="CMake Application.0013" />
     </list>
   </component>
@@ -321,6 +331,14 @@
       <workItem from="1697294122027" duration="243000" />
       <workItem from="1697295192227" duration="1003000" />
       <workItem from="1697329741255" duration="5032000" />
+      <workItem from="1697338177730" duration="11913000" />
+      <workItem from="1697374848744" duration="7000" />
+      <workItem from="1697451453482" duration="8673000" />
+      <workItem from="1697520987559" duration="7008000" />
+      <workItem from="1697629357146" duration="3818000" />
+      <workItem from="1697637259339" duration="18000" />
+      <workItem from="1697723360121" duration="1238000" />
+      <workItem from="1697777994529" duration="1302000" />
     </task>
     <servers />
   </component>
@@ -399,13 +417,24 @@
           <line>31</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/_BonusQuestion/APlusB.c</url>
+          <line>18</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/_BonusQuestion/APlusB.c</url>
+          <line>29</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="numbers" language="ObjectiveC" />
-        <watch expression="numbers[left]" language="ObjectiveC" />
-        <watch expression="numbers[right]" language="ObjectiveC" />
+        <watch expression="result" language="ObjectiveC" />
+        <watch expression="nums1" language="ObjectiveC" />
+        <watch expression="nums2" language="ObjectiveC" />
+        <watch expression="operator" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>

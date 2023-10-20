@@ -1,0 +1,10 @@
+
+ic:S5276;"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ù´¢•üÿÿÿÿ8ú­µ•´1
+ic:S5276?"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ù´¢•üÿÿÿÿ8û­µ•´1
+nc:S3776"TRefactor this function to reduce its Cognitive Complexity from 59 to the 25 allowed.(Ôˆ™“8ü­µ•´1
+kc:S134$"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Å¢ïüÿÿÿÿ8ü­µ•´1
+kc:S134;"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ù´¢•üÿÿÿÿ8ı­µ•´1
+kc:S134?"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ù´¢•üÿÿÿÿ8ı­µ•´1
+Tc:S1079"5Add a field width specifier to this "%s" placeholder.(ĞËŒ¡şÿÿÿÿ8®µ•´1
+Pc:S886$"2Refactor this loop so that it is less error-prone.(Å¢ïüÿÿÿÿ8„®µ•´1
+=c:S1854"#Value stored to 'num' is never read(Ø©Û8à»µ•´1

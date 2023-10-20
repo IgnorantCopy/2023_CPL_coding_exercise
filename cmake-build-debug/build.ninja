@@ -708,6 +708,72 @@ build _BonusQuestion/PrimeNumber.exe: C_EXECUTABLE_LINKER__PrimeNumber_Debug _Bo
   TARGET_IMPLIB = _BonusQuestion\libPrimeNumber.dll.a
   TARGET_PDB = PrimeNumber.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target APlusB
+
+
+#############################################
+# Order-only phony target for APlusB
+
+build cmake_object_order_depends_target_APlusB: phony || _BonusQuestion/CMakeFiles/APlusB.dir
+
+build _BonusQuestion/CMakeFiles/APlusB.dir/APlusB.c.obj: C_COMPILER__APlusB_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/APlusB.c || cmake_object_order_depends_target_APlusB
+  DEP_FILE = _BonusQuestion\CMakeFiles\APlusB.dir\APlusB.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _BonusQuestion\CMakeFiles\APlusB.dir
+  OBJECT_FILE_DIR = _BonusQuestion\CMakeFiles\APlusB.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target APlusB
+
+
+#############################################
+# Link the executable _BonusQuestion\APlusB.exe
+
+build _BonusQuestion/APlusB.exe: C_EXECUTABLE_LINKER__APlusB_Debug _BonusQuestion/CMakeFiles/APlusB.dir/APlusB.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _BonusQuestion\CMakeFiles\APlusB.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _BonusQuestion\APlusB.exe
+  TARGET_IMPLIB = _BonusQuestion\libAPlusB.dll.a
+  TARGET_PDB = APlusB.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SuperCalculator
+
+
+#############################################
+# Order-only phony target for SuperCalculator
+
+build cmake_object_order_depends_target_SuperCalculator: phony || _BonusQuestion/CMakeFiles/SuperCalculator.dir
+
+build _BonusQuestion/CMakeFiles/SuperCalculator.dir/SuperCalculator.c.obj: C_COMPILER__SuperCalculator_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/SuperCalculator.c || cmake_object_order_depends_target_SuperCalculator
+  DEP_FILE = _BonusQuestion\CMakeFiles\SuperCalculator.dir\SuperCalculator.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _BonusQuestion\CMakeFiles\SuperCalculator.dir
+  OBJECT_FILE_DIR = _BonusQuestion\CMakeFiles\SuperCalculator.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SuperCalculator
+
+
+#############################################
+# Link the executable _BonusQuestion\SuperCalculator.exe
+
+build _BonusQuestion/SuperCalculator.exe: C_EXECUTABLE_LINKER__SuperCalculator_Debug _BonusQuestion/CMakeFiles/SuperCalculator.dir/SuperCalculator.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _BonusQuestion\CMakeFiles\SuperCalculator.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _BonusQuestion\SuperCalculator.exe
+  TARGET_IMPLIB = _BonusQuestion\libSuperCalculator.dll.a
+  TARGET_PDB = SuperCalculator.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1091,6 +1157,10 @@ build 0013: phony _LeetCode/String/0013.exe
 
 build 0013.exe: phony _LeetCode/String/0013.exe
 
+build APlusB: phony _BonusQuestion/APlusB.exe
+
+build APlusB.exe: phony _BonusQuestion/APlusB.exe
+
 build Ascii: phony 01-Lesson1/Ascii.exe
 
 build Ascii.exe: phony 01-Lesson1/Ascii.exe
@@ -1183,6 +1253,10 @@ build StandUp: phony 02-Lesson2/StandUp.exe
 
 build StandUp.exe: phony 02-Lesson2/StandUp.exe
 
+build SuperCalculator: phony _BonusQuestion/SuperCalculator.exe
+
+build SuperCalculator.exe: phony _BonusQuestion/SuperCalculator.exe
+
 build Time: phony 01-Lesson1/Time.exe
 
 build Time.exe: phony 01-Lesson1/Time.exe
@@ -1230,7 +1304,7 @@ build 03-Lesson3/Bonus/all: phony 03-Lesson3/Bonus/Decimal.exe 03-Lesson3/Bonus/
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion
 
-build _BonusQuestion/all: phony _BonusQuestion/Factorial2.exe _BonusQuestion/PrimeNumber.exe
+build _BonusQuestion/all: phony _BonusQuestion/Factorial2.exe _BonusQuestion/PrimeNumber.exe _BonusQuestion/APlusB.exe _BonusQuestion/SuperCalculator.exe
 
 # =============================================================================
 

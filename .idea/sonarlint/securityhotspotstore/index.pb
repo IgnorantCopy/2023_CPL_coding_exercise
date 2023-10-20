@@ -70,3 +70,7 @@ N
 03-Lesson3/Bonus/Palindrome2.c,6\2\624d5a39b352e07f06b26614900a66e455ac4e76
 L
 03-Lesson3/Bonus/QuickSort.c,5\f\5f7d3a9b939b0b13576e45b8c64592c59e1fbe66
+G
+_BonusQuestion/APlusB.c,0\7\07099cbdad225f4b8b920d224e46e06fb4cd375b
+P
+ _BonusQuestion/SuperCalculator.c,7\f\7fc8e752dff5465fe09ad8b39da39014443646ad
