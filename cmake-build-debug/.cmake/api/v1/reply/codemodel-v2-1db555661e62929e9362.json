@@ -12,7 +12,8 @@
 						2,
 						3,
 						5,
-						6
+						6,
+						8
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -37,10 +38,10 @@
 						2,
 						6,
 						9,
-						13,
-						16,
-						19,
-						26
+						14,
+						17,
+						24,
+						33
 					]
 				},
 				{
@@ -57,10 +58,10 @@
 					[
 						7,
 						10,
-						14,
-						22,
-						23,
-						24
+						15,
+						27,
+						28,
+						29
 					]
 				},
 				{
@@ -107,8 +108,8 @@
 					[
 						1,
 						11,
-						20,
-						25
+						25,
+						32
 					]
 				},
 				{
@@ -131,8 +132,8 @@
 						4,
 						5,
 						12,
-						15,
-						17
+						16,
+						22
 					]
 				},
 				{
@@ -148,8 +149,48 @@
 					"targetIndexes" : 
 					[
 						8,
+						23,
+						26
+					]
+				},
+				{
+					"build" : "04-Lesson4",
+					"childIndexes" : 
+					[
+						9
+					],
+					"jsonFile" : "directory-04-Lesson4-Debug-b3a0f7ce1ddb00cc23d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "04-Lesson4",
+					"targetIndexes" : 
+					[
+						13,
+						19,
+						20,
+						31,
+						34
+					]
+				},
+				{
+					"build" : "04-Lesson4/Bouns",
+					"jsonFile" : "directory-04-Lesson4.Bouns-Debug-9e8353b35e81ed7b56ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "04-Lesson4/Bouns",
+					"targetIndexes" : 
+					[
 						18,
-						21
+						21,
+						30
 					]
 				}
 			],
@@ -166,7 +207,9 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8,
+						9
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -197,7 +240,15 @@
 						23,
 						24,
 						25,
-						26
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
 					]
 				}
 			],
@@ -295,6 +346,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 8,
+					"id" : "Formation::@95f9a9946598e7ab2068",
+					"jsonFile" : "target-Formation-Debug-bff2bd6b022b3cbc05cf.json",
+					"name" : "Formation",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Gravity::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Gravity-Debug-46d592af3e2da396dc31.json",
@@ -320,6 +378,34 @@
 					"id" : "Julian::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Julian-Debug-88212949e7509cc29911.json",
 					"name" : "Julian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Life::@f9e988a2ed89a0617b76",
+					"jsonFile" : "target-Life-Debug-e2e739e1ac3f33e46c48.json",
+					"name" : "Life",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "MatrixMult::@95f9a9946598e7ab2068",
+					"jsonFile" : "target-MatrixMult-Debug-9b9b1ce4eaf469d5f53f.json",
+					"name" : "MatrixMult",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "Mines::@95f9a9946598e7ab2068",
+					"jsonFile" : "target-Mines-Debug-d17cedbfbe4dcb2ed007.json",
+					"name" : "Mines",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Obstacle::@f9e988a2ed89a0617b76",
+					"jsonFile" : "target-Obstacle-Debug-17ef6885d91b0765769e.json",
+					"name" : "Obstacle",
 					"projectIndex" : 0
 				},
 				{
@@ -379,6 +465,20 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 9,
+					"id" : "Statistics::@f9e988a2ed89a0617b76",
+					"jsonFile" : "target-Statistics-Debug-6e72c6183f98da740aa4.json",
+					"name" : "Statistics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "Sudoku::@95f9a9946598e7ab2068",
+					"jsonFile" : "target-Sudoku-Debug-bbf972012413c3b1e710.json",
+					"name" : "Sudoku",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 5,
 					"id" : "SuperCalculator::@852bce7720a7d0d586a3",
 					"jsonFile" : "target-SuperCalculator-Debug-8901895b31dd075ca39a.json",
@@ -390,6 +490,13 @@
 					"id" : "Time::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Time-Debug-cfae8a1dba8b57b28af2.json",
 					"name" : "Time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "Trace::@95f9a9946598e7ab2068",
+					"jsonFile" : "target-Trace-Debug-394d5e46e056773731ae.json",
+					"name" : "Trace",
 					"projectIndex" : 0
 				}
 			]

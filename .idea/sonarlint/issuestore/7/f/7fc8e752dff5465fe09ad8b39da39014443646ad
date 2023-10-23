@@ -1,0 +1,26 @@
+
+[c:S5276#"<implicit conversion loses integer precision: 'int' to 'char'(‡ÒíÑýÿÿÿÿ8Ðè£½µ1
+Vc:S5276'"<implicit conversion loses integer precision: 'int' to 'char'(–±ã¹8Ðè£½µ1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(éŠÙò8Ðè£½µ1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÀÂôä8Ðè£½µ1
+[c:S5276@"<implicit conversion loses integer precision: 'int' to 'char'(íÜ’ úÿÿÿÿ8Ðè£½µ1
+Vc:S5276B"<implicit conversion loses integer precision: 'int' to 'char'(Ûáˆ8Ðè£½µ1
+dc:S52761"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(éŠÙò8Ðè£½µ1
+dc:S52762"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÀÂôä8Ðè£½µ1
+dc:S5276N"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¿Ã­Ö8Ðè£½µ1
+dc:S5276O"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(óÍ™ó8Ðè£½µ1
+/c:S1481k"unused variable 'bit'(†ž•8Ðè£½µ1
+dc:S5276l"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¿Ã­Ö8Ðè£½µ1
+dc:S5276m"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(óÍ™ó8Ðè£½µ1
+ec:S5276”"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(Å¤”º8Ðè£½µ1
+ec:S5276¡"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(Å¤”º8Ðè£½µ1
+ec:S5276´"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(Å¤”º8Ðè£½µ1
+kc:S134_"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(îž¹Ïøÿÿÿÿ8èè£½µ1
+Kc:S886["2Refactor this loop so that it is less error-prone.(¶—®±8éè£½µ1
+uc:S108~"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(¸€Èö8éè£½µ1
+oc:S3776„"TRefactor this function to reduce its Cognitive Complexity from 40 to the 25 allowed.(Ôˆ™“8éè£½µ1
+lc:S134¦"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Á†‘‚üÿÿÿÿ8éè£½µ1
+gc:S134©"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¡ý¥‘8éè£½µ1
+Oc:S1079ˆ"5Add a field width specifier to this "%s" placeholder.(¶Šñ~8éè£½µ1
+Pc:S1079Œ"5Add a field width specifier to this "%s" placeholder.(™÷»Ü8éè£½µ1
+Ic:S3562‘".Add a "default" case to this switch statement.(ž·Þÿ8éè£½µ1

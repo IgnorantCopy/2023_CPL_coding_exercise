@@ -121,6 +121,12 @@
 		},
 		{
 			"path" : "03-Lesson3/Bonus/CMakeLists.txt"
+		},
+		{
+			"path" : "04-Lesson4/CMakeLists.txt"
+		},
+		{
+			"path" : "04-Lesson4/Bouns/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

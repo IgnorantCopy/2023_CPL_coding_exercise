@@ -41,3 +41,15 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3/Bonus/CMakeFiles/
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3/Bonus/CMakeFiles/QuickSort.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3/Bonus/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3/Bonus/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/MatrixMult.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/Formation.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/Sudoku.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/Mines.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/Trace.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bouns/CMakeFiles/Statistics.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bouns/CMakeFiles/Life.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bouns/CMakeFiles/Obstacle.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bouns/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bouns/CMakeFiles/rebuild_cache.dir
