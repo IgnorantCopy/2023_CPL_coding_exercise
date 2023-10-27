@@ -13,7 +13,8 @@
 						3,
 						5,
 						6,
-						8
+						8,
+						10
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -35,13 +36,13 @@
 					"source" : "01-Lesson1",
 					"targetIndexes" : 
 					[
-						2,
-						6,
-						9,
+						7,
+						11,
 						14,
-						17,
-						24,
-						33
+						19,
+						22,
+						29,
+						39
 					]
 				},
 				{
@@ -56,12 +57,12 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						7,
-						10,
+						12,
 						15,
-						27,
-						28,
-						29
+						20,
+						33,
+						34,
+						35
 					]
 				},
 				{
@@ -91,7 +92,9 @@
 					"source" : "_LeetCode/String",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2
 					]
 				},
 				{
@@ -106,10 +109,11 @@
 					"source" : "_BonusQuestion",
 					"targetIndexes" : 
 					[
-						1,
-						11,
-						25,
-						32
+						6,
+						16,
+						30,
+						32,
+						38
 					]
 				},
 				{
@@ -128,12 +132,12 @@
 					"source" : "03-Lesson3",
 					"targetIndexes" : 
 					[
-						3,
-						4,
-						5,
-						12,
-						16,
-						22
+						8,
+						9,
+						10,
+						17,
+						21,
+						27
 					]
 				},
 				{
@@ -148,9 +152,9 @@
 					"source" : "03-Lesson3/Bonus",
 					"targetIndexes" : 
 					[
-						8,
-						23,
-						26
+						13,
+						28,
+						31
 					]
 				},
 				{
@@ -169,28 +173,45 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						13,
-						19,
-						20,
-						31,
-						34
+						18,
+						24,
+						25,
+						37,
+						40
 					]
 				},
 				{
-					"build" : "04-Lesson4/Bouns",
-					"jsonFile" : "directory-04-Lesson4.Bouns-Debug-9e8353b35e81ed7b56ac.json",
+					"build" : "04-Lesson4/Bonus",
+					"jsonFile" : "directory-04-Lesson4.Bonus-Debug-203521a06cf52a727eb9.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.26"
 					},
 					"parentIndex" : 8,
 					"projectIndex" : 0,
-					"source" : "04-Lesson4/Bouns",
+					"source" : "04-Lesson4/Bonus",
 					"targetIndexes" : 
 					[
-						18,
-						21,
-						30
+						23,
+						26,
+						36
+					]
+				},
+				{
+					"build" : "_Valley",
+					"jsonFile" : "directory-_Valley-Debug-4730bc0b571853aa8776.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "_Valley",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
 					]
 				}
 			],
@@ -209,7 +230,8 @@
 						6,
 						7,
 						8,
-						9
+						9,
+						10
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -248,7 +270,13 @@
 						31,
 						32,
 						33,
-						34
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40
 					]
 				}
 			],
@@ -256,9 +284,44 @@
 			[
 				{
 					"directoryIndex" : 4,
-					"id" : "0013::@2241142625e5641f78e6",
-					"jsonFile" : "target-0013-Debug-cd7aa49cbd119254d9c8.json",
-					"name" : "0013",
+					"id" : "0013L::@2241142625e5641f78e6",
+					"jsonFile" : "target-0013L-Debug-db10d7f14d0b81dc105c.json",
+					"name" : "0013L",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "0014L::@2241142625e5641f78e6",
+					"jsonFile" : "target-0014L-Debug-952fd9a02fb841fae29d.json",
+					"name" : "0014L",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "0020L::@2241142625e5641f78e6",
+					"jsonFile" : "target-0020L-Debug-993a51136abf80748dfb.json",
+					"name" : "0020L",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "2084V::@5fd7b73517a960a4305c",
+					"jsonFile" : "target-2084V-Debug-416004064f2315d844a9.json",
+					"name" : "2084V",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "4326V::@5fd7b73517a960a4305c",
+					"jsonFile" : "target-4326V-Debug-27f953a8a3b90fd035f8.json",
+					"name" : "4326V",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "4327V::@5fd7b73517a960a4305c",
+					"jsonFile" : "target-4327V-Debug-a022351f459b75be74ce.json",
+					"name" : "4327V",
 					"projectIndex" : 0
 				},
 				{
@@ -382,8 +445,8 @@
 				},
 				{
 					"directoryIndex" : 9,
-					"id" : "Life::@f9e988a2ed89a0617b76",
-					"jsonFile" : "target-Life-Debug-e2e739e1ac3f33e46c48.json",
+					"id" : "Life::@410df9042026f37b7dd0",
+					"jsonFile" : "target-Life-Debug-60e2022bf4d5a6a40e92.json",
 					"name" : "Life",
 					"projectIndex" : 0
 				},
@@ -403,8 +466,8 @@
 				},
 				{
 					"directoryIndex" : 9,
-					"id" : "Obstacle::@f9e988a2ed89a0617b76",
-					"jsonFile" : "target-Obstacle-Debug-17ef6885d91b0765769e.json",
+					"id" : "Obstacle::@410df9042026f37b7dd0",
+					"jsonFile" : "target-Obstacle-Debug-efd091c1cae4811e40cd.json",
 					"name" : "Obstacle",
 					"projectIndex" : 0
 				},
@@ -444,6 +507,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 5,
+					"id" : "Quine::@852bce7720a7d0d586a3",
+					"jsonFile" : "target-Quine-Debug-e14cfec6ff26c7435169.json",
+					"name" : "Quine",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 2,
 					"id" : "Series::@225c51db256cbe500fae",
 					"jsonFile" : "target-Series-Debug-1551c771d9844dec931f.json",
@@ -466,8 +536,8 @@
 				},
 				{
 					"directoryIndex" : 9,
-					"id" : "Statistics::@f9e988a2ed89a0617b76",
-					"jsonFile" : "target-Statistics-Debug-6e72c6183f98da740aa4.json",
+					"id" : "Statistics::@410df9042026f37b7dd0",
+					"jsonFile" : "target-Statistics-Debug-076c6f200d7f11a0ce18.json",
 					"name" : "Statistics",
 					"projectIndex" : 0
 				},

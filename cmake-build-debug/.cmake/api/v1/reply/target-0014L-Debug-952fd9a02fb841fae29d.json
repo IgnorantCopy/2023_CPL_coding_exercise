@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "_LeetCode/String/0013.exe"
+			"path" : "_LeetCode/String/0014L.exe"
 		},
 		{
-			"path" : "_LeetCode/String/0013.pdb"
+			"path" : "_LeetCode/String/0014L.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1,
+				"line" : 2,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "0013::@2241142625e5641f78e6",
+	"id" : "0014L::@2241142625e5641f78e6",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "0013",
-	"nameOnDisk" : "0013.exe",
+	"name" : "0014L",
+	"nameOnDisk" : "0014L.exe",
 	"paths" : 
 	{
 		"build" : "_LeetCode/String",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "_LeetCode/String/0013.c",
+			"path" : "_LeetCode/String/0014L.c",
 			"sourceGroupIndex" : 0
 		}
 	],

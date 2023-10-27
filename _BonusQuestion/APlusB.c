@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <string.h>
 char numbers[1000][3][1002] = {0};
-char result[1000][1003] = {0};
+char out[1000][1003] = {0};
 
 int main() {
     int line = 0;
@@ -35,26 +35,26 @@ int main() {
                 num2 = numbers[i][1][k] - 48;
                 k--;
             }
-            int num = num1 + num2 + result[i][bit];
-            result[i][bit] = num % 10 + 48;
+            int num = num1 + num2 + out[i][bit];
+            out[i][bit] = num % 10 + 48;
             if (j == -1 && k == -1) {
                 if (num >= 10) {
-                    result[i][bit + 1] = num / 10 + 48;
+                    out[i][bit + 1] = num / 10 + 48;
                 }
                 break;
             } else if (num >= 10) {
-                result[i][bit + 1] = num / 10;
+                out[i][bit + 1] = num / 10;
             }
             bit++;
         }
     }
     for (int i = 0; i < line; i++) {
-        int j = strlen(result[i]) - 1;
-        if (result[i][strlen(result[i]) - 1] == '0' && j != 0) {
+        int j = strlen(out[i]) - 1;
+        if (out[i][strlen(out[i]) - 1] == '0' && j != 0) {
             j--;
         }
         for (; j >= 0; j--) {
-            printf("%c", result[i][j]);
+            printf("%c", out[i][j]);
         }
         if (i != line - 1) {
             printf("\n");

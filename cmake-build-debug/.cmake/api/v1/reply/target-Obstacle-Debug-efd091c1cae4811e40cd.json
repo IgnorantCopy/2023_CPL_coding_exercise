@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "04-Lesson4/Bouns/Statistics.exe"
+			"path" : "04-Lesson4/Bonus/Obstacle.exe"
 		},
 		{
-			"path" : "04-Lesson4/Bouns/Statistics.pdb"
+			"path" : "04-Lesson4/Bonus/Obstacle.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"04-Lesson4/Bouns/CMakeLists.txt"
+			"04-Lesson4/Bonus/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1,
+				"line" : 3,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Statistics::@f9e988a2ed89a0617b76",
+	"id" : "Obstacle::@410df9042026f37b7dd0",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Statistics",
-	"nameOnDisk" : "Statistics.exe",
+	"name" : "Obstacle",
+	"nameOnDisk" : "Obstacle.exe",
 	"paths" : 
 	{
-		"build" : "04-Lesson4/Bouns",
-		"source" : "04-Lesson4/Bouns"
+		"build" : "04-Lesson4/Bonus",
+		"source" : "04-Lesson4/Bonus"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "04-Lesson4/Bouns/Statistics.c",
+			"path" : "04-Lesson4/Bonus/Obstacle.c",
 			"sourceGroupIndex" : 0
 		}
 	],

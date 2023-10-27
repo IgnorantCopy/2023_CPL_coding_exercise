@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 char step[5] = {'U', 'D', 'L', 'R'};
-char result[500000] = {0};
+char out[500000] = {0};
 
 int main() {
     int xA = 0;
@@ -20,153 +20,153 @@ int main() {
     if (yB > yA && xB > xA) {
         if (yB == yC) {
             while (xA != xB) {
-                result[n++] = 'R';
+                out[n++] = 'R';
                 xA++;
             }
             while (yA != yB) {
-                result[n++] = 'U';
+                out[n++] = 'U';
                 yA++;
             }
         } else {
             while (yA != yB) {
                 if (yA == yC - 1 && xA == xC) {
-                    result[n++] = 'R';
+                    out[n++] = 'R';
                     xA++;
                 }
-                result[n++] = 'U';
+                out[n++] = 'U';
                 yA++;
             }
             while (xA != xB) {
-                result[n++] = 'R';
+                out[n++] = 'R';
                 xA++;
             }
         }
     } else if (yB > yA && xB == xA) {
         while (yA != yB) {
             if (xA == xC && yA == yC - 1) {
-                result[n++] = 'R';
-                result[n++] = 'U';
-                result[n++] = 'U';
-                result[n++] = 'L';
+                out[n++] = 'R';
+                out[n++] = 'U';
+                out[n++] = 'U';
+                out[n++] = 'L';
                 yA += 2;
             } else {
-                result[n++] = 'U';
+                out[n++] = 'U';
                 yA++;
             }
         }
     } else if (yB > yA && xB < xA) {
         if (yB == yC) {
             while (xA != xB) {
-                result[n++] = 'L';
+                out[n++] = 'L';
                 xA--;
             }
             while (yA != yB) {
-                result[n++] = 'U';
+                out[n++] = 'U';
                 yA++;
             }
         } else {
             while (yA != yB) {
                 if (yA == yC - 1 && xA == xC) {
-                    result[n++] = 'L';
+                    out[n++] = 'L';
                     xA--;
                 }
-                result[n++] = 'U';
+                out[n++] = 'U';
                 yA++;
             }
             while (xA != xB) {
-                result[n++] = 'L';
+                out[n++] = 'L';
                 xA--;
             }
         }
     } else if (yB == yA && xB > xA) {
         while (xA != xB) {
             if (yA == yC && xA == xC - 1) {
-                result[n++] = 'U';
-                result[n++] = 'R';
-                result[n++] = 'R';
-                result[n++] = 'D';
+                out[n++] = 'U';
+                out[n++] = 'R';
+                out[n++] = 'R';
+                out[n++] = 'D';
                 xA += 2;
             } else {
-                result[n++] = 'R';
+                out[n++] = 'R';
                 xA++;
             }
         }
     } else if (yB == yA && xB < xA) {
         while (xA != xB) {
             if (yA == yC && xA == xC + 1) {
-                result[n++] = 'U';
-                result[n++] = 'L';
-                result[n++] = 'L';
-                result[n++] = 'D';
+                out[n++] = 'U';
+                out[n++] = 'L';
+                out[n++] = 'L';
+                out[n++] = 'D';
                 xA -= 2;
             } else {
-                result[n++] = 'L';
+                out[n++] = 'L';
                 xA--;
             }
         }
     } else if (yB < yA && xB > xA) {
         if (xB == xC) {
             while (yA != yB) {
-                result[n++] = 'D';
+                out[n++] = 'D';
                 yA--;
             }
             while (xA != xB) {
-                result[n++] = 'R';
+                out[n++] = 'R';
                 xA++;
             }
         } else {
             while (xA != xB) {
                 if (yA == yC && xA == xC - 1) {
-                    result[n++] = 'D';
+                    out[n++] = 'D';
                     yA--;
                 }
-                result[n++] = 'R';
+                out[n++] = 'R';
                 xA++;
             }
             while (yA != yB) {
-                result[n++] = 'D';
+                out[n++] = 'D';
                 yA--;
             }
         }
     } else if (yB < yA && xB == xA) {
         while (yA != yB) {
             if (xA == xC && yA == yC + 1) {
-                result[n++] = 'R';
-                result[n++] = 'D';
-                result[n++] = 'D';
-                result[n++] = 'L';
+                out[n++] = 'R';
+                out[n++] = 'D';
+                out[n++] = 'D';
+                out[n++] = 'L';
                 yA -= 2;
             } else {
-                result[n++] = 'D';
+                out[n++] = 'D';
                 yA--;
             }
         }
     } else if (yB < yA && xB < xA) {
         if (xB == xC) {
             while (yA != yB) {
-                result[n++] = 'D';
+                out[n++] = 'D';
                 yA--;
             }
             while (xA != xB) {
-                result[n++] = 'L';
+                out[n++] = 'L';
                 xA--;
             }
         } else {
             while (xA != xB) {
                 if (yA == yC && xA == xC + 1) {
-                    result[n++] = 'D';
+                    out[n++] = 'D';
                     yA--;
                 }
-                result[n++] = 'L';
+                out[n++] = 'L';
                 xA--;
             }
             while (yA != yB) {
-                result[n++] = 'D';
+                out[n++] = 'D';
                 yA--;
             }
         }
     }
     printf("%d\n", n);
-    printf("%s", result);
+    printf("%s", out);
     return 0;
 }

@@ -126,7 +126,10 @@
 			"path" : "04-Lesson4/CMakeLists.txt"
 		},
 		{
-			"path" : "04-Lesson4/Bouns/CMakeLists.txt"
+			"path" : "04-Lesson4/Bonus/CMakeLists.txt"
+		},
+		{
+			"path" : "_Valley/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

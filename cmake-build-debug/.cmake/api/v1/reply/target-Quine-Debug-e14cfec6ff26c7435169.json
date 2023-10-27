@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "04-Lesson4/Bouns/Life.exe"
+			"path" : "_BonusQuestion/Quine.exe"
 		},
 		{
-			"path" : "04-Lesson4/Bouns/Life.pdb"
+			"path" : "_BonusQuestion/Quine.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"04-Lesson4/Bouns/CMakeLists.txt"
+			"_BonusQuestion/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 2,
+				"line" : 5,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Life::@f9e988a2ed89a0617b76",
+	"id" : "Quine::@852bce7720a7d0d586a3",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Life",
-	"nameOnDisk" : "Life.exe",
+	"name" : "Quine",
+	"nameOnDisk" : "Quine.exe",
 	"paths" : 
 	{
-		"build" : "04-Lesson4/Bouns",
-		"source" : "04-Lesson4/Bouns"
+		"build" : "_BonusQuestion",
+		"source" : "_BonusQuestion"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "04-Lesson4/Bouns/Life.c",
+			"path" : "_BonusQuestion/Quine.c",
 			"sourceGroupIndex" : 0
 		}
 	],

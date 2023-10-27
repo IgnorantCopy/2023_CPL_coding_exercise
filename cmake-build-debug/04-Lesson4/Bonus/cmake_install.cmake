@@ -1,4 +1,4 @@
-# Install script for directory: D:/codes/2023_CPL_coding_exercise/04-Lesson4
+# Install script for directory: D:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,10 +35,5 @@ endif()
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "D:/Program Files/apps/CLion/ch-0/232.9921.42/bin/mingw/bin/objdump.exe")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bonus/cmake_install.cmake")
 endif()
 

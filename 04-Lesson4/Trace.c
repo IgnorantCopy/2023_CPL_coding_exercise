@@ -9,7 +9,7 @@
 bool vis[52][52] = {0};
 char arr[50][50] = {0};
 char newArr[52][52] = {0};
-int result[2500][2] = {0};
+int out[2500][2] = {0};
 int vectors[4][2] = {
         {-1, 0},
         {0,  -1},
@@ -36,8 +36,8 @@ int main() {
     int count;
     vis[x][y] = true;
     do {
-        result[ans - 1][0] = x;
-        result[ans - 1][1] = y;
+        out[ans - 1][0] = x;
+        out[ans - 1][1] = y;
         count = 0;
         for (int i = 0; i < 4; i++) {
             int newX = x + vectors[i][0];
@@ -57,7 +57,7 @@ int main() {
     } while (isEnd);
     printf("%d\n", ans);
     for (int i = 0; i < ans; i++) {
-        printf("%d %d", result[i][0], result[i][1]);
+        printf("%d %d", out[i][0], out[i][1]);
         if (i != ans - 1) {
             printf("\n");
         }
