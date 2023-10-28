@@ -61,3 +61,12 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/4326V.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/2084V.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Behaviors.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Sum.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/MagicSquare.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/AbsolutePrime.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Radix.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/NextPermutation.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Pair.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/rebuild_cache.dir

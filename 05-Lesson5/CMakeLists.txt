@@ -1,0 +1,7 @@
+add_executable(Behaviors Behaviors.c)
+add_executable(Sum Sum.c)
+add_executable(MagicSquare MagicSquare.c)
+add_executable(AbsolutePrime AbsolutePrime.c)
+add_executable(Radix Radix.c)
+add_executable(NextPermutation NextPermutation.c)
+add_executable(Pair Pair.c)

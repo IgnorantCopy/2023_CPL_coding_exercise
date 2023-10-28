@@ -130,6 +130,9 @@
 		},
 		{
 			"path" : "_Valley/CMakeLists.txt"
+		},
+		{
+			"path" : "05-Lesson5/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
