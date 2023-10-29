@@ -1,3 +1,4 @@
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/new.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Ascii.dir
@@ -59,6 +60,8 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/04-Lesson4/Bonus/CMakeFiles/
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/4327V.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/4326V.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/2084V.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/1789V.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/1830V.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Behaviors.dir
@@ -70,3 +73,10 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/NextPe
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Pair.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/Reverse.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/Tictactoe.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/ByeJonaBell.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/rebuild_cache.dir

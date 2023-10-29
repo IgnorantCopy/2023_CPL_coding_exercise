@@ -1,3 +1,5 @@
 add_executable(4327V 4327V.c)
 add_executable(4326V 4326V.c)
 add_executable(2084V 2084V.c)
+add_executable(1789V 1789V.c)
+add_executable(1830V 1830V.c)

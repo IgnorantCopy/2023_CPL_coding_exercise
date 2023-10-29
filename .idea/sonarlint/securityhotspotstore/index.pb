@@ -110,3 +110,17 @@ L
 05-Lesson5/NextPermutation.c,6\d\6d241c00bb4657d012ae1054241580c1dd749961
 A
 05-Lesson5/Pair.c,b\a\ba39a6340fe008dc09e355913e30b7e12def4ac2
+?
+_Valley/1789V.c,d\4\d49ef6405d3d2cd283f0b4b73888a7f6d6fde22d
+5
+new.c,1\d\1da68bd2e1a2ed6ea59ed1f51b5a5abf57328e27
+?
+_Valley/1830V.c,f\7\f77d2b868a881392f30f48c293b49dfe7e1ba0e1
+G
+_Exam/turn1/Tictactoe.c,8\4\84b83b8c4f966cc992b9f312b065afedff13349e
+I
+_Exam/turn1/ByeJonaBell.c,8\4\842c2fa791dce618b2180104aceb632e8e133009
+D
+_Exam/CMakeLists.txt,e\a\eaff99c62e5bbd102f4bb8df7a7371786caef2dc
+J
+_Exam/turn1/CMakeLists.txt,4\5\4500714450ae7f4ea49d61d25cb98ecffd23c6a8
