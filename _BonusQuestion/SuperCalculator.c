@@ -74,9 +74,10 @@ void minus(int i) {
 }
 
 void multiply(int i) {
-    int bit = 0;
+    int bit;
     int len1 = strlen(nums1[i]) - 1;
     int len2 = strlen(nums2[i]) - 1;
+    int isFirst[10005] = {0};
     if ((len1 == 0 && nums1[i][0] == '0') || (len2 == 0 && nums2[i][0] == '0')) {
         out[i][0] += 48;
     } else {
@@ -84,20 +85,24 @@ void multiply(int i) {
             for (int k = len2; k >= 0; k--) {
                 bit = len1 - j + len2 - k;
                 int num = (nums1[i][j] - 48) * (nums2[i][k] - 48);
-                out[i][bit] += num % 10;
-                out[i][bit + 1] += num / 10;
-            }
-        }
-        for (int j = 0; j < strlen(out[i]); j++) {
-            if (out[i][j] < 10) {
-                out[i][j] += 48;
-            } else {
-                if (j != strlen(out[i]) - 1) {
-                    out[i][j + 1] += out[i][j] / 10;
-                } else {
-                    out[i][j + 1] += out[i][j] / 10 + 48;
+                if (!isFirst[bit]) {
+                    out[i][bit] += 48;
+                    isFirst[bit] = 1;
                 }
-                out[i][j] = out[i][j] % 10 + 48;
+                out[i][bit] += num % 10;
+                if (!isFirst[bit + 1]) {
+                    out[i][bit + 1] += 48;
+                    isFirst[bit + 1] = 1;
+                }
+                out[i][bit + 1] += num / 10;
+                for (int l = 0; out[i][bit + l] - 48 >= 10; l++) {
+                    if (!isFirst[bit + l + 1]) {
+                        out[i][bit + l + 1] += 48;
+                        isFirst[bit + l + 1] = 1;
+                    }
+                    out[i][bit + l + 1] += (out[i][bit + l] - 48) / 10;
+                    out[i][bit + l] = (out[i][bit + l] - 48) % 10 + 48;
+                }
             }
         }
     }
@@ -130,7 +135,7 @@ void divide(int i) {
             isSmall = 0;
             while (!isSmall) {
                 for (int k = j; k < len2 + j; k++) {
-                    if ((j > 0 && nums1[i][k - 1] != '0') || (nums2[i][k - j] < nums1[i][k])) {
+                    if ((j > 0 && nums1[i][j - 1] != '0') || (nums2[i][k - j] < nums1[i][k])) {
                         break;
                     } else if (nums2[i][k - j] > nums1[i][k]) {
                         isSmall = 1;
@@ -163,6 +168,73 @@ void divide(int i) {
     }
 }
 
+void PrintAdd(int i, int t) {
+    int resultLength = strlen(out[i]) - 1;
+    if (out[i][resultLength] == '0' && resultLength != 0) {
+        resultLength--;
+    }
+    for (; resultLength >= 0; resultLength--) {
+        printf("%c", out[i][resultLength]);
+    }
+    if (i != t - 1) {
+        printf("\n");
+    }
+}
+
+void PrintMinus(int i, int t) {
+    int isExtra = 0;
+    int resultLength = strlen(out[i]) - 1;
+    if (out[i][resultLength] == '0' && resultLength != 0) {
+        isExtra = 1;
+    }
+    for (int j = resultLength; j >= 0; j--) {
+        if (out[i][j] != '0' && j != resultLength) {
+            isExtra = 0;
+        }
+        if (isExtra && out[i][j] == '0') {
+            continue;
+        }
+        printf("%c", out[i][j]);
+    }
+    if (i != t - 1) {
+        printf("\n");
+    }
+}
+
+void PrintMultiply(int i, int t) {
+    int resultLength = strlen(out[i]) - 1;
+    for (int j = resultLength; j >= 0; j--) {
+        if (j == resultLength && out[i][j] == '0') {
+            continue;
+        } else {
+            printf("%c", out[i][j]);
+        }
+    }
+    if (i != t - 1) {
+        printf("\n");
+    }
+}
+
+void PrintDivide(int i, int t) {
+    int start = 0;
+    int resultLength = strlen(out[i]);
+    if (resultLength != 1) {
+        for (int j = 0; j < resultLength; j++) {
+            if (out[i][j] == '0') {
+                start++;
+            } else {
+                break;
+            }
+        }
+    }
+    for (int j = start; j < resultLength; j++) {
+        printf("%c", out[i][j]);
+    }
+    if (i != t - 1) {
+        printf("\n");
+    }
+}
+
 int main() {
     int t = 0;
     scanf("%d", &t);
@@ -174,70 +246,22 @@ int main() {
         scanf("%s", nums2[i]);
     }
     for (int i = 0; i < t; i++) {
-        int resultLength;
-        int isExtra = 0;
         switch (operator[i]) {
             case '+':
                 add(i);
-                resultLength = strlen(out[i]) - 1;
-                if (out[i][resultLength] == '0' && resultLength != 0) {
-                    resultLength--;
-                }
-                for (; resultLength >= 0; resultLength--) {
-                    printf("%c", out[i][resultLength]);
-                }
-                if (i != t - 1) {
-                    printf("\n");
-                }
+                PrintAdd(i, t);
                 break;
             case '-':
                 minus(i);
-                resultLength = strlen(out[i]) - 1;
-                if (out[i][resultLength] == '0' && resultLength != 0) {
-                    isExtra = 1;
-                }
-                for (int j = resultLength; j >= 0; j--) {
-                    if (out[i][j] != '0' && j != resultLength) {
-                        isExtra = 0;
-                    }
-                    if (isExtra && out[i][j] == '0') {
-                        continue;
-                    }
-                    printf("%c", out[i][j]);
-                }
-                if (i != t - 1) {
-                    printf("\n");
-                }
+                PrintMinus(i, t);
                 break;
             case '*':
                 multiply(i);
-                resultLength = strlen(out[i]) - 1;
-                for (int j = resultLength; j >= 0; j--) {
-                    printf("%c", out[i][j]);
-                }
-                if (i != t - 1) {
-                    printf("\n");
-                }
+                PrintMultiply(i, t);
                 break;
             case '/':
                 divide(i);
-                int start = 0;
-                resultLength = strlen(out[i]);
-                if (resultLength != 1) {
-                    for (int j = 0; j < resultLength; j++) {
-                        if (out[i][j] == '0') {
-                            start++;
-                        } else {
-                            break;
-                        }
-                    }
-                }
-                for (int j = start; j < resultLength; j++) {
-                    printf("%c", out[i][j]);
-                }
-                if (i != t - 1) {
-                    printf("\n");
-                }
+                PrintDivide(i, t);
                 break;
         }
     }

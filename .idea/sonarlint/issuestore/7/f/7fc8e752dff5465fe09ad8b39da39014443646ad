@@ -1,0 +1,33 @@
+
+[c:S5276#"<implicit conversion loses integer precision: 'int' to 'char'(ðÑœÙûÿÿÿÿ8Æò…±¸1
+[c:S5276'"<implicit conversion loses integer precision: 'int' to 'char'(‡ò¸›ýÿÿÿÿ8Æò…±¸1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(éŠÙò8Æò…±¸1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÀÂôä8Æò…±¸1
+Vc:S5276@"<implicit conversion loses integer precision: 'int' to 'char'(¸…³Þ8Æò…±¸1
+Vc:S5276B"<implicit conversion loses integer precision: 'int' to 'char'(Ù×šÙ8Æò…±¸1
+dc:S52761"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(éŠÙò8Æò…±¸1
+dc:S52762"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÀÂôä8Æò…±¸1
+dc:S5276N"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¿Ã­Ö8Æò…±¸1
+dc:S5276O"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(óÍ™ó8½Ïª²¸1
+\c:S5276’"<implicit conversion loses integer precision: 'int' to 'char'(Û×ÈÖúÿÿÿÿ8Æò…±¸1
+Wc:S5276™"<implicit conversion loses integer precision: 'int' to 'char'(§“§8Æò…±¸1
+\c:S5276œ"<implicit conversion loses integer precision: 'int' to 'char'(¼¨Ìúþÿÿÿÿ8Æò…±¸1
+ic:S5276q"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÈŠö±þÿÿÿÿ8Æò…±¸1
+ic:S5276r"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(§ßá´øÿÿÿÿ8Æò…±¸1
+ec:S5276¬"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¾¼ÝŠ8¢Õ¡³¸1
+ec:S5276º"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¾¼ÝŠ8¢Õ¡³¸1
+ec:S5276Í"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¾¼ÝŠ8¢Õ¡³¸1
+jc:S5276Ü"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ü§ôÓùÿÿÿÿ8¢Õ¡³¸1
+mc:S3776L"TRefactor this function to reduce its Cognitive Complexity from 27 to the 25 allowed.(Äå‹f8÷Ñó²¸1
+kc:S134X"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(…ª¾ˆüÿÿÿÿ8áÅã²¸1
+kc:S134]"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÞÐ“ùÿÿÿÿ8÷Ñó²¸1
+kc:S134b"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(šËÿ˜ýÿÿÿÿ8¨µ“²¸1
+Pc:S886b"2Refactor this loop so that it is less error-prone.(šËÿ˜ýÿÿÿÿ8¬âÎ²¸1
+nc:S3776o"TRefactor this function to reduce its Cognitive Complexity from 54 to the 25 allowed.(ùž†Å8Æò…±¸1
+gc:S134‰"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ä¬›ì8¿×¹²¸1
+lc:S134‘"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(èí±Èùÿÿÿÿ8Òó²¸1
+_c:S924w"FReduce the number of nested "break" statements from 2 to 1 authorized.(ÐÜç‡8Æò…±¸1
+`c:S924‰"FReduce the number of nested "break" statements from 2 to 1 authorized.(Ä¬›ì8Æò…±¸1
+Oc:S1079ò"5Add a field width specifier to this "%s" placeholder.(¶Šñ~8Õò…±¸1
+Pc:S1079ö"5Add a field width specifier to this "%s" placeholder.(™÷»Ü8Õò…±¸1
+Ic:S3562ù".Add a "default" case to this switch statement.(ž·Þÿ8ÂÕ¡³¸1

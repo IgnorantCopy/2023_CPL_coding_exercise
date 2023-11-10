@@ -1,0 +1,14 @@
+
+gc:S3776"TRefactor this function to reduce its Cognitive Complexity from 39 to the 25 allowed.(Ôˆ™“
+dc:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(îÊ£øÿÿÿÿ
+dc:S134%"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‘òşèøÿÿÿÿ
+sc:S108 "\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(ÇåÎıÿÿÿÿ
+sc:S108%"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(‘òşèøÿÿÿÿ
+nc:S108*"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(ë¿ôé
+sc:S108,"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(êà¯¹øÿÿÿÿ
+sc:S108."\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(ªÙõáúÿÿÿÿ
+sc:S1080"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(ƒôõıÿÿÿÿ
+nc:S1082"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(³ÉùÉ
+nc:S1084"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(ğñ„¸
+nc:S1086"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(‘ääã
+sc:S1088"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(­¸È»şÿÿÿÿ

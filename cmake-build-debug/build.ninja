@@ -1607,171 +1607,6 @@ build 04-Lesson4/Bonus/rebuild_cache: phony 04-Lesson4/Bonus/CMakeFiles/rebuild_
 # D:/codes/2023_CPL_coding_exercise/CMakeLists.txt
 # =============================================================================
 
-# =============================================================================
-# Object build statements for EXECUTABLE target 4327V
-
-
-#############################################
-# Order-only phony target for 4327V
-
-build cmake_object_order_depends_target_4327V: phony || _Valley/CMakeFiles/4327V.dir
-
-build _Valley/CMakeFiles/4327V.dir/4327V.c.obj: C_COMPILER__4327V_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/4327V.c || cmake_object_order_depends_target_4327V
-  DEP_FILE = _Valley\CMakeFiles\4327V.dir\4327V.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = _Valley\CMakeFiles\4327V.dir
-  OBJECT_FILE_DIR = _Valley\CMakeFiles\4327V.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 4327V
-
-
-#############################################
-# Link the executable _Valley\4327V.exe
-
-build _Valley/4327V.exe: C_EXECUTABLE_LINKER__4327V_Debug _Valley/CMakeFiles/4327V.dir/4327V.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = _Valley\CMakeFiles\4327V.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = _Valley\4327V.exe
-  TARGET_IMPLIB = _Valley\lib4327V.dll.a
-  TARGET_PDB = 4327V.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 4326V
-
-
-#############################################
-# Order-only phony target for 4326V
-
-build cmake_object_order_depends_target_4326V: phony || _Valley/CMakeFiles/4326V.dir
-
-build _Valley/CMakeFiles/4326V.dir/4326V.c.obj: C_COMPILER__4326V_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/4326V.c || cmake_object_order_depends_target_4326V
-  DEP_FILE = _Valley\CMakeFiles\4326V.dir\4326V.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = _Valley\CMakeFiles\4326V.dir
-  OBJECT_FILE_DIR = _Valley\CMakeFiles\4326V.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 4326V
-
-
-#############################################
-# Link the executable _Valley\4326V.exe
-
-build _Valley/4326V.exe: C_EXECUTABLE_LINKER__4326V_Debug _Valley/CMakeFiles/4326V.dir/4326V.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = _Valley\CMakeFiles\4326V.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = _Valley\4326V.exe
-  TARGET_IMPLIB = _Valley\lib4326V.dll.a
-  TARGET_PDB = 4326V.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 2084V
-
-
-#############################################
-# Order-only phony target for 2084V
-
-build cmake_object_order_depends_target_2084V: phony || _Valley/CMakeFiles/2084V.dir
-
-build _Valley/CMakeFiles/2084V.dir/2084V.c.obj: C_COMPILER__2084V_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/2084V.c || cmake_object_order_depends_target_2084V
-  DEP_FILE = _Valley\CMakeFiles\2084V.dir\2084V.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = _Valley\CMakeFiles\2084V.dir
-  OBJECT_FILE_DIR = _Valley\CMakeFiles\2084V.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 2084V
-
-
-#############################################
-# Link the executable _Valley\2084V.exe
-
-build _Valley/2084V.exe: C_EXECUTABLE_LINKER__2084V_Debug _Valley/CMakeFiles/2084V.dir/2084V.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = _Valley\CMakeFiles\2084V.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = _Valley\2084V.exe
-  TARGET_IMPLIB = _Valley\lib2084V.dll.a
-  TARGET_PDB = 2084V.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 1789V
-
-
-#############################################
-# Order-only phony target for 1789V
-
-build cmake_object_order_depends_target_1789V: phony || _Valley/CMakeFiles/1789V.dir
-
-build _Valley/CMakeFiles/1789V.dir/1789V.c.obj: C_COMPILER__1789V_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/1789V.c || cmake_object_order_depends_target_1789V
-  DEP_FILE = _Valley\CMakeFiles\1789V.dir\1789V.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = _Valley\CMakeFiles\1789V.dir
-  OBJECT_FILE_DIR = _Valley\CMakeFiles\1789V.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 1789V
-
-
-#############################################
-# Link the executable _Valley\1789V.exe
-
-build _Valley/1789V.exe: C_EXECUTABLE_LINKER__1789V_Debug _Valley/CMakeFiles/1789V.dir/1789V.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = _Valley\CMakeFiles\1789V.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = _Valley\1789V.exe
-  TARGET_IMPLIB = _Valley\lib1789V.dll.a
-  TARGET_PDB = 1789V.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 1830V
-
-
-#############################################
-# Order-only phony target for 1830V
-
-build cmake_object_order_depends_target_1830V: phony || _Valley/CMakeFiles/1830V.dir
-
-build _Valley/CMakeFiles/1830V.dir/1830V.c.obj: C_COMPILER__1830V_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/1830V.c || cmake_object_order_depends_target_1830V
-  DEP_FILE = _Valley\CMakeFiles\1830V.dir\1830V.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = _Valley\CMakeFiles\1830V.dir
-  OBJECT_FILE_DIR = _Valley\CMakeFiles\1830V.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 1830V
-
-
-#############################################
-# Link the executable _Valley\1830V.exe
-
-build _Valley/1830V.exe: C_EXECUTABLE_LINKER__1830V_Debug _Valley/CMakeFiles/1830V.dir/1830V.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = _Valley\CMakeFiles\1830V.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = _Valley\1830V.exe
-  TARGET_IMPLIB = _Valley\lib1830V.dll.a
-  TARGET_PDB = 1830V.exe.dbg
-
 
 #############################################
 # Utility command for edit_cache
@@ -1794,6 +1629,562 @@ build _Valley/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build _Valley/rebuild_cache: phony _Valley/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P4327
+
+
+#############################################
+# Order-only phony target for P4327
+
+build cmake_object_order_depends_target_P4327: phony || _Valley/Intro/CMakeFiles/P4327.dir
+
+build _Valley/Intro/CMakeFiles/P4327.dir/P4327.c.obj: C_COMPILER__P4327_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P4327.c || cmake_object_order_depends_target_P4327
+  DEP_FILE = _Valley\Intro\CMakeFiles\P4327.dir\P4327.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P4327.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P4327.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P4327
+
+
+#############################################
+# Link the executable _Valley\Intro\P4327.exe
+
+build _Valley/Intro/P4327.exe: C_EXECUTABLE_LINKER__P4327_Debug _Valley/Intro/CMakeFiles/P4327.dir/P4327.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P4327.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P4327.exe
+  TARGET_IMPLIB = _Valley\Intro\libP4327.dll.a
+  TARGET_PDB = P4327.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P4326
+
+
+#############################################
+# Order-only phony target for P4326
+
+build cmake_object_order_depends_target_P4326: phony || _Valley/Intro/CMakeFiles/P4326.dir
+
+build _Valley/Intro/CMakeFiles/P4326.dir/P4326.c.obj: C_COMPILER__P4326_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P4326.c || cmake_object_order_depends_target_P4326
+  DEP_FILE = _Valley\Intro\CMakeFiles\P4326.dir\P4326.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P4326.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P4326.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P4326
+
+
+#############################################
+# Link the executable _Valley\Intro\P4326.exe
+
+build _Valley/Intro/P4326.exe: C_EXECUTABLE_LINKER__P4326_Debug _Valley/Intro/CMakeFiles/P4326.dir/P4326.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P4326.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P4326.exe
+  TARGET_IMPLIB = _Valley\Intro\libP4326.dll.a
+  TARGET_PDB = P4326.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2084
+
+
+#############################################
+# Order-only phony target for P2084
+
+build cmake_object_order_depends_target_P2084: phony || _Valley/Intro/CMakeFiles/P2084.dir
+
+build _Valley/Intro/CMakeFiles/P2084.dir/P2084.c.obj: C_COMPILER__P2084_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2084.c || cmake_object_order_depends_target_P2084
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2084.dir\P2084.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2084.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2084.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2084
+
+
+#############################################
+# Link the executable _Valley\Intro\P2084.exe
+
+build _Valley/Intro/P2084.exe: C_EXECUTABLE_LINKER__P2084_Debug _Valley/Intro/CMakeFiles/P2084.dir/P2084.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2084.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2084.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2084.dll.a
+  TARGET_PDB = P2084.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1789
+
+
+#############################################
+# Order-only phony target for P1789
+
+build cmake_object_order_depends_target_P1789: phony || _Valley/Intro/CMakeFiles/P1789.dir
+
+build _Valley/Intro/CMakeFiles/P1789.dir/P1789.c.obj: C_COMPILER__P1789_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P1789.c || cmake_object_order_depends_target_P1789
+  DEP_FILE = _Valley\Intro\CMakeFiles\P1789.dir\P1789.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P1789.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P1789.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1789
+
+
+#############################################
+# Link the executable _Valley\Intro\P1789.exe
+
+build _Valley/Intro/P1789.exe: C_EXECUTABLE_LINKER__P1789_Debug _Valley/Intro/CMakeFiles/P1789.dir/P1789.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P1789.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P1789.exe
+  TARGET_IMPLIB = _Valley\Intro\libP1789.dll.a
+  TARGET_PDB = P1789.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1830
+
+
+#############################################
+# Order-only phony target for P1830
+
+build cmake_object_order_depends_target_P1830: phony || _Valley/Intro/CMakeFiles/P1830.dir
+
+build _Valley/Intro/CMakeFiles/P1830.dir/P1830.c.obj: C_COMPILER__P1830_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P1830.c || cmake_object_order_depends_target_P1830
+  DEP_FILE = _Valley\Intro\CMakeFiles\P1830.dir\P1830.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P1830.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P1830.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1830
+
+
+#############################################
+# Link the executable _Valley\Intro\P1830.exe
+
+build _Valley/Intro/P1830.exe: C_EXECUTABLE_LINKER__P1830_Debug _Valley/Intro/CMakeFiles/P1830.dir/P1830.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P1830.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P1830.exe
+  TARGET_IMPLIB = _Valley\Intro\libP1830.dll.a
+  TARGET_PDB = P1830.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2006
+
+
+#############################################
+# Order-only phony target for P2006
+
+build cmake_object_order_depends_target_P2006: phony || _Valley/Intro/CMakeFiles/P2006.dir
+
+build _Valley/Intro/CMakeFiles/P2006.dir/P2006.c.obj: C_COMPILER__P2006_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2006.c || cmake_object_order_depends_target_P2006
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2006.dir\P2006.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2006.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2006.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2006
+
+
+#############################################
+# Link the executable _Valley\Intro\P2006.exe
+
+build _Valley/Intro/P2006.exe: C_EXECUTABLE_LINKER__P2006_Debug _Valley/Intro/CMakeFiles/P2006.dir/P2006.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2006.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2006.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2006.dll.a
+  TARGET_PDB = P2006.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2525
+
+
+#############################################
+# Order-only phony target for P2525
+
+build cmake_object_order_depends_target_P2525: phony || _Valley/Intro/CMakeFiles/P2525.dir
+
+build _Valley/Intro/CMakeFiles/P2525.dir/P2525.c.obj: C_COMPILER__P2525_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2525.c || cmake_object_order_depends_target_P2525
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2525.dir\P2525.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2525.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2525.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2525
+
+
+#############################################
+# Link the executable _Valley\Intro\P2525.exe
+
+build _Valley/Intro/P2525.exe: C_EXECUTABLE_LINKER__P2525_Debug _Valley/Intro/CMakeFiles/P2525.dir/P2525.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2525.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2525.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2525.dll.a
+  TARGET_PDB = P2525.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2524
+
+
+#############################################
+# Order-only phony target for P2524
+
+build cmake_object_order_depends_target_P2524: phony || _Valley/Intro/CMakeFiles/P2524.dir
+
+build _Valley/Intro/CMakeFiles/P2524.dir/P2524.c.obj: C_COMPILER__P2524_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2524.c || cmake_object_order_depends_target_P2524
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2524.dir\P2524.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2524.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2524.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2524
+
+
+#############################################
+# Link the executable _Valley\Intro\P2524.exe
+
+build _Valley/Intro/P2524.exe: C_EXECUTABLE_LINKER__P2524_Debug _Valley/Intro/CMakeFiles/P2524.dir/P2524.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2524.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2524.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2524.dll.a
+  TARGET_PDB = P2524.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2676
+
+
+#############################################
+# Order-only phony target for P2676
+
+build cmake_object_order_depends_target_P2676: phony || _Valley/Intro/CMakeFiles/P2676.dir
+
+build _Valley/Intro/CMakeFiles/P2676.dir/P2676.c.obj: C_COMPILER__P2676_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2676.c || cmake_object_order_depends_target_P2676
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2676.dir\P2676.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2676.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2676.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2676
+
+
+#############################################
+# Link the executable _Valley\Intro\P2676.exe
+
+build _Valley/Intro/P2676.exe: C_EXECUTABLE_LINKER__P2676_Debug _Valley/Intro/CMakeFiles/P2676.dir/P2676.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2676.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2676.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2676.dll.a
+  TARGET_PDB = P2676.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2956
+
+
+#############################################
+# Order-only phony target for P2956
+
+build cmake_object_order_depends_target_P2956: phony || _Valley/Intro/CMakeFiles/P2956.dir
+
+build _Valley/Intro/CMakeFiles/P2956.dir/P2956.c.obj: C_COMPILER__P2956_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2956.c || cmake_object_order_depends_target_P2956
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2956.dir\P2956.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2956.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2956.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2956
+
+
+#############################################
+# Link the executable _Valley\Intro\P2956.exe
+
+build _Valley/Intro/P2956.exe: C_EXECUTABLE_LINKER__P2956_Debug _Valley/Intro/CMakeFiles/P2956.dir/P2956.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2956.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2956.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2956.dll.a
+  TARGET_PDB = P2956.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P3717
+
+
+#############################################
+# Order-only phony target for P3717
+
+build cmake_object_order_depends_target_P3717: phony || _Valley/Intro/CMakeFiles/P3717.dir
+
+build _Valley/Intro/CMakeFiles/P3717.dir/P3717.c.obj: C_COMPILER__P3717_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P3717.c || cmake_object_order_depends_target_P3717
+  DEP_FILE = _Valley\Intro\CMakeFiles\P3717.dir\P3717.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P3717.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P3717.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P3717
+
+
+#############################################
+# Link the executable _Valley\Intro\P3717.exe
+
+build _Valley/Intro/P3717.exe: C_EXECUTABLE_LINKER__P3717_Debug _Valley/Intro/CMakeFiles/P3717.dir/P3717.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P3717.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P3717.exe
+  TARGET_IMPLIB = _Valley\Intro\libP3717.dll.a
+  TARGET_PDB = P3717.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5886
+
+
+#############################################
+# Order-only phony target for P5886
+
+build cmake_object_order_depends_target_P5886: phony || _Valley/Intro/CMakeFiles/P5886.dir
+
+build _Valley/Intro/CMakeFiles/P5886.dir/P5886.c.obj: C_COMPILER__P5886_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P5886.c || cmake_object_order_depends_target_P5886
+  DEP_FILE = _Valley\Intro\CMakeFiles\P5886.dir\P5886.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5886.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P5886.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5886
+
+
+#############################################
+# Link the executable _Valley\Intro\P5886.exe
+
+build _Valley/Intro/P5886.exe: C_EXECUTABLE_LINKER__P5886_Debug _Valley/Intro/CMakeFiles/P5886.dir/P5886.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5886.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P5886.exe
+  TARGET_IMPLIB = _Valley\Intro\libP5886.dll.a
+  TARGET_PDB = P5886.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5734
+
+
+#############################################
+# Order-only phony target for P5734
+
+build cmake_object_order_depends_target_P5734: phony || _Valley/Intro/CMakeFiles/P5734.dir
+
+build _Valley/Intro/CMakeFiles/P5734.dir/P5734.c.obj: C_COMPILER__P5734_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P5734.c || cmake_object_order_depends_target_P5734
+  DEP_FILE = _Valley\Intro\CMakeFiles\P5734.dir\P5734.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5734.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P5734.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5734
+
+
+#############################################
+# Link the executable _Valley\Intro\P5734.exe
+
+build _Valley/Intro/P5734.exe: C_EXECUTABLE_LINKER__P5734_Debug _Valley/Intro/CMakeFiles/P5734.dir/P5734.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5734.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P5734.exe
+  TARGET_IMPLIB = _Valley\Intro\libP5734.dll.a
+  TARGET_PDB = P5734.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target B2006
+
+
+#############################################
+# Order-only phony target for B2006
+
+build cmake_object_order_depends_target_B2006: phony || _Valley/Intro/CMakeFiles/B2006.dir
+
+build _Valley/Intro/CMakeFiles/B2006.dir/B2006.c.obj: C_COMPILER__B2006_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/B2006.c || cmake_object_order_depends_target_B2006
+  DEP_FILE = _Valley\Intro\CMakeFiles\B2006.dir\B2006.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\B2006.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\B2006.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target B2006
+
+
+#############################################
+# Link the executable _Valley\Intro\B2006.exe
+
+build _Valley/Intro/B2006.exe: C_EXECUTABLE_LINKER__B2006_Debug _Valley/Intro/CMakeFiles/B2006.dir/B2006.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\B2006.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\B2006.exe
+  TARGET_IMPLIB = _Valley\Intro\libB2006.dll.a
+  TARGET_PDB = B2006.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target B2095
+
+
+#############################################
+# Order-only phony target for B2095
+
+build cmake_object_order_depends_target_B2095: phony || _Valley/Intro/CMakeFiles/B2095.dir
+
+build _Valley/Intro/CMakeFiles/B2095.dir/B2095.c.obj: C_COMPILER__B2095_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/B2095.c || cmake_object_order_depends_target_B2095
+  DEP_FILE = _Valley\Intro\CMakeFiles\B2095.dir\B2095.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\B2095.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\B2095.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target B2095
+
+
+#############################################
+# Link the executable _Valley\Intro\B2095.exe
+
+build _Valley/Intro/B2095.exe: C_EXECUTABLE_LINKER__B2095_Debug _Valley/Intro/CMakeFiles/B2095.dir/B2095.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\B2095.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\B2095.exe
+  TARGET_IMPLIB = _Valley\Intro\libB2095.dll.a
+  TARGET_PDB = B2095.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1739
+
+
+#############################################
+# Order-only phony target for P1739
+
+build cmake_object_order_depends_target_P1739: phony || _Valley/Intro/CMakeFiles/P1739.dir
+
+build _Valley/Intro/CMakeFiles/P1739.dir/P1739.c.obj: C_COMPILER__P1739_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P1739.c || cmake_object_order_depends_target_P1739
+  DEP_FILE = _Valley\Intro\CMakeFiles\P1739.dir\P1739.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P1739.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P1739.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1739
+
+
+#############################################
+# Link the executable _Valley\Intro\P1739.exe
+
+build _Valley/Intro/P1739.exe: C_EXECUTABLE_LINKER__P1739_Debug _Valley/Intro/CMakeFiles/P1739.dir/P1739.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P1739.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P1739.exe
+  TARGET_IMPLIB = _Valley\Intro\libP1739.dll.a
+  TARGET_PDB = P1739.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build _Valley/Intro/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\_Valley\Intro && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build _Valley/Intro/edit_cache: phony _Valley/Intro/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build _Valley/Intro/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\_Valley\Intro && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\codes\2023_CPL_coding_exercise -BD:\codes\2023_CPL_coding_exercise\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build _Valley/Intro/rebuild_cache: phony _Valley/Intro/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
@@ -2224,26 +2615,6 @@ build 0020L: phony _LeetCode/String/0020L.exe
 
 build 0020L.exe: phony _LeetCode/String/0020L.exe
 
-build 1789V: phony _Valley/1789V.exe
-
-build 1789V.exe: phony _Valley/1789V.exe
-
-build 1830V: phony _Valley/1830V.exe
-
-build 1830V.exe: phony _Valley/1830V.exe
-
-build 2084V: phony _Valley/2084V.exe
-
-build 2084V.exe: phony _Valley/2084V.exe
-
-build 4326V: phony _Valley/4326V.exe
-
-build 4326V.exe: phony _Valley/4326V.exe
-
-build 4327V: phony _Valley/4327V.exe
-
-build 4327V.exe: phony _Valley/4327V.exe
-
 build APlusB: phony _BonusQuestion/APlusB.exe
 
 build APlusB.exe: phony _BonusQuestion/APlusB.exe
@@ -2255,6 +2626,14 @@ build AbsolutePrime.exe: phony 05-Lesson5/AbsolutePrime.exe
 build Ascii: phony 01-Lesson1/Ascii.exe
 
 build Ascii.exe: phony 01-Lesson1/Ascii.exe
+
+build B2006: phony _Valley/Intro/B2006.exe
+
+build B2006.exe: phony _Valley/Intro/B2006.exe
+
+build B2095: phony _Valley/Intro/B2095.exe
+
+build B2095.exe: phony _Valley/Intro/B2095.exe
 
 build BalanceTernary1: phony 03-Lesson3/BalanceTernary1.exe
 
@@ -2347,6 +2726,62 @@ build NextPermutation.exe: phony 05-Lesson5/NextPermutation.exe
 build Obstacle: phony 04-Lesson4/Bonus/Obstacle.exe
 
 build Obstacle.exe: phony 04-Lesson4/Bonus/Obstacle.exe
+
+build P1739: phony _Valley/Intro/P1739.exe
+
+build P1739.exe: phony _Valley/Intro/P1739.exe
+
+build P1789: phony _Valley/Intro/P1789.exe
+
+build P1789.exe: phony _Valley/Intro/P1789.exe
+
+build P1830: phony _Valley/Intro/P1830.exe
+
+build P1830.exe: phony _Valley/Intro/P1830.exe
+
+build P2006: phony _Valley/Intro/P2006.exe
+
+build P2006.exe: phony _Valley/Intro/P2006.exe
+
+build P2084: phony _Valley/Intro/P2084.exe
+
+build P2084.exe: phony _Valley/Intro/P2084.exe
+
+build P2524: phony _Valley/Intro/P2524.exe
+
+build P2524.exe: phony _Valley/Intro/P2524.exe
+
+build P2525: phony _Valley/Intro/P2525.exe
+
+build P2525.exe: phony _Valley/Intro/P2525.exe
+
+build P2676: phony _Valley/Intro/P2676.exe
+
+build P2676.exe: phony _Valley/Intro/P2676.exe
+
+build P2956: phony _Valley/Intro/P2956.exe
+
+build P2956.exe: phony _Valley/Intro/P2956.exe
+
+build P3717: phony _Valley/Intro/P3717.exe
+
+build P3717.exe: phony _Valley/Intro/P3717.exe
+
+build P4326: phony _Valley/Intro/P4326.exe
+
+build P4326.exe: phony _Valley/Intro/P4326.exe
+
+build P4327: phony _Valley/Intro/P4327.exe
+
+build P4327.exe: phony _Valley/Intro/P4327.exe
+
+build P5734: phony _Valley/Intro/P5734.exe
+
+build P5734.exe: phony _Valley/Intro/P5734.exe
+
+build P5886: phony _Valley/Intro/P5886.exe
+
+build P5886.exe: phony _Valley/Intro/P5886.exe
 
 build Pair: phony 05-Lesson5/Pair.exe
 
@@ -2525,7 +2960,14 @@ build _LeetCode/String/all: phony _LeetCode/String/0013L.exe _LeetCode/String/00
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley
 
-build _Valley/all: phony _Valley/4327V.exe _Valley/4326V.exe _Valley/2084V.exe _Valley/1789V.exe _Valley/1830V.exe
+build _Valley/all: phony _Valley/Intro/all
+
+# =============================================================================
+
+#############################################
+# Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro
+
+build _Valley/Intro/all: phony _Valley/Intro/P4327.exe _Valley/Intro/P4326.exe _Valley/Intro/P2084.exe _Valley/Intro/P1789.exe _Valley/Intro/P1830.exe _Valley/Intro/P2006.exe _Valley/Intro/P2525.exe _Valley/Intro/P2524.exe _Valley/Intro/P2676.exe _Valley/Intro/P2956.exe _Valley/Intro/P3717.exe _Valley/Intro/P5886.exe _Valley/Intro/P5734.exe _Valley/Intro/B2006.exe _Valley/Intro/B2095.exe _Valley/Intro/P1739.exe
 
 # =============================================================================
 # Built-in targets
@@ -2534,14 +2976,14 @@ build _Valley/all: phony _Valley/4327V.exe _Valley/4326V.exe _Valley/2084V.exe _
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt: phony
 
 
 #############################################
