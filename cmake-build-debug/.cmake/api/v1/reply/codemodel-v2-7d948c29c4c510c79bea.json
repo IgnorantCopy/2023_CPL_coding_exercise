@@ -16,7 +16,8 @@
 						8,
 						10,
 						12,
-						13
+						13,
+						15
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -27,7 +28,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						64
+						72
 					]
 				},
 				{
@@ -44,11 +45,11 @@
 					[
 						5,
 						13,
-						16,
-						21,
-						24,
-						48,
-						62
+						17,
+						22,
+						26,
+						53,
+						69
 					]
 				},
 				{
@@ -64,11 +65,11 @@
 					"targetIndexes" : 
 					[
 						14,
-						17,
-						22,
-						54,
-						55,
-						56
+						18,
+						24,
+						60,
+						61,
+						62
 					]
 				},
 				{
@@ -116,10 +117,10 @@
 					"targetIndexes" : 
 					[
 						3,
-						18,
-						49,
-						51,
-						60
+						19,
+						55,
+						57,
+						66
 					]
 				},
 				{
@@ -141,9 +142,9 @@
 						8,
 						9,
 						11,
-						19,
-						23,
-						46
+						20,
+						25,
+						50
 					]
 				},
 				{
@@ -159,8 +160,8 @@
 					"targetIndexes" : 
 					[
 						15,
-						47,
-						50
+						51,
+						56
 					]
 				},
 				{
@@ -179,11 +180,11 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						20,
-						27,
-						28,
-						58,
-						63
+						21,
+						29,
+						31,
+						64,
+						70
 					]
 				},
 				{
@@ -198,9 +199,9 @@
 					"source" : "04-Lesson4/Bonus",
 					"targetIndexes" : 
 					[
-						25,
-						30,
-						57
+						27,
+						34,
+						63
 					]
 				},
 				{
@@ -232,10 +233,6 @@
 					[
 						6,
 						7,
-						31,
-						32,
-						33,
-						34,
 						35,
 						36,
 						37,
@@ -245,7 +242,11 @@
 						41,
 						42,
 						43,
-						44
+						44,
+						45,
+						46,
+						47,
+						48
 					]
 				},
 				{
@@ -262,11 +263,11 @@
 					[
 						4,
 						10,
-						26,
-						29,
-						45,
-						52,
-						59
+						28,
+						33,
+						49,
+						58,
+						65
 					]
 				},
 				{
@@ -297,8 +298,30 @@
 					"targetIndexes" : 
 					[
 						12,
-						53,
-						61
+						59,
+						67
+					]
+				},
+				{
+					"build" : "06-Lesson6",
+					"jsonFile" : "directory-06-Lesson6-Debug-9d36f11ae0b578759de5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "06-Lesson6",
+					"targetIndexes" : 
+					[
+						16,
+						23,
+						30,
+						32,
+						52,
+						54,
+						68,
+						71
 					]
 				}
 			],
@@ -322,7 +345,8 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -391,7 +415,15 @@
 						61,
 						62,
 						63,
-						64
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72
 					]
 				}
 			],
@@ -510,6 +542,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 15,
+					"id" : "Decomposition::@0432396df542767385f1",
+					"jsonFile" : "target-Decomposition-Debug-57eaf31def3edcd1b472.json",
+					"name" : "Decomposition",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Equation::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Equation-Debug-384be9a721ce79285f79.json",
@@ -549,6 +588,13 @@
 					"id" : "Gravity::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Gravity-Debug-46d592af3e2da396dc31.json",
 					"name" : "Gravity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "Integration::@0432396df542767385f1",
+					"jsonFile" : "target-Integration-Debug-70209b14dd67b3d47c9e.json",
+					"name" : "Integration",
 					"projectIndex" : 0
 				},
 				{
@@ -594,10 +640,24 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 15,
+					"id" : "Max::@0432396df542767385f1",
+					"jsonFile" : "target-Max-Debug-357f0ee3877a642c96c4.json",
+					"name" : "Max",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 8,
 					"id" : "Mines::@95f9a9946598e7ab2068",
 					"jsonFile" : "target-Mines-Debug-d17cedbfbe4dcb2ed007.json",
 					"name" : "Mines",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "New::@0432396df542767385f1",
+					"jsonFile" : "target-New-Debug-05e95705f87cc10d0b42.json",
+					"name" : "New",
 					"projectIndex" : 0
 				},
 				{
@@ -734,10 +794,24 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 15,
+					"id" : "Pascal::@0432396df542767385f1",
+					"jsonFile" : "target-Pascal-Debug-22d01e98271137f76234.json",
+					"name" : "Pascal",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Pi::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Pi-Debug-025ff17fe404f5503439.json",
 					"name" : "Pi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "Poi::@0432396df542767385f1",
+					"jsonFile" : "target-Poi-Debug-0e10263dcabd38d7a4af.json",
+					"name" : "Poi",
 					"projectIndex" : 0
 				},
 				{
@@ -832,6 +906,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 15,
+					"id" : "Tiles::@0432396df542767385f1",
+					"jsonFile" : "target-Tiles-Debug-62c97e73ac23477e9f87.json",
+					"name" : "Tiles",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Time::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Time-Debug-cfae8a1dba8b57b28af2.json",
@@ -843,6 +924,13 @@
 					"id" : "Trace::@95f9a9946598e7ab2068",
 					"jsonFile" : "target-Trace-Debug-394d5e46e056773731ae.json",
 					"name" : "Trace",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "Triangle::@0432396df542767385f1",
+					"jsonFile" : "target-Triangle-Debug-26c82fdd8011ce6b34ef.json",
+					"name" : "Triangle",
 					"projectIndex" : 0
 				},
 				{

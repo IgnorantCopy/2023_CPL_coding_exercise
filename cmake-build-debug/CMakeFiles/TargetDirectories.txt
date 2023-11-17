@@ -93,3 +93,13 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/Ticta
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/ByeJonaBell.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Pascal.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Tiles.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Poi.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Max.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Integration.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Triangle.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Decomposition.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/New.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/rebuild_cache.dir

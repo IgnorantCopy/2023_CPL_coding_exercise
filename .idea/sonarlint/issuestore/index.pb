@@ -116,12 +116,8 @@ J
 _Exam/turn1/CMakeLists.txt,4\5\4500714450ae7f4ea49d61d25cb98ecffd23c6a8
 E
 _Exam/turn1/Reverse.c,4\4\444a394ff3cd5eb3986291ccc95563dbec268079
-E
-_Valley/Intro/5886V.c,0\b\0bd5f9abc0d35baf37c8fc3452ee2cabaa48c678
 L
 _Valley/Intro/CMakeLists.txt,3\c\3c778c2f310266f77909113ccf1295b5034dbb87
-E
-_Valley/Intro/5734V.c,7\6\76a8d7ddd92de15c129e409e50cf98fb88e2f5b5
 E
 _Valley/Intro/P2676.c,9\f\9f6e63d0fe65b93f22e80c4bcbd6f34dbc265af3
 E
@@ -132,3 +128,21 @@ E
 _Valley/Intro/B2095.c,c\9\c95de0eaf71524f2f7d2f3010aaf25ba6e647e68
 E
 _Valley/Intro/P1739.c,c\e\ced222bef26cd3945574642e1ab4facb9bd4145b
+I
+06-Lesson6/CMakeLists.txt,7\7\77939d8f6adc7cf8008e7d33f4927e4c6b8d9868
+C
+06-Lesson6/Pascal.c,5\4\54125076abee49cbaffff352b85cb644a9fdc27d
+B
+06-Lesson6/Tiles.c,9\d\9d2ee2ef491d103cb0167364c4cef40ed1a0c44f
+@
+06-Lesson6/Poi.c,b\9\b9de3f2b3116d56656ecda75ea36cf5e693ee71b
+@
+06-Lesson6/Max.c,7\f\7fb15e86ace97eea250476019c574ca963324f95
+H
+06-Lesson6/Integration.c,2\5\2509dbaae77b091c4ec61f473851a585f2ac92d9
+E
+06-Lesson6/Triangle.c,4\e\4e1e24ccf7cef16a1b28dfcb4cb763eb2d4186ec
+J
+06-Lesson6/Decomposition.c,a\e\ae80a9dfd79862d3cdc416ddb467b220bfefd801
+@
+06-Lesson6/new.c,0\f\0f5389a627d731148f61d1596ae690a40f1a13c4

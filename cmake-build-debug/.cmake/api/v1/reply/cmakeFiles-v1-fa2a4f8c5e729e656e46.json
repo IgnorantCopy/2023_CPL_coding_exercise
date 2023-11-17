@@ -142,6 +142,9 @@
 		},
 		{
 			"path" : "_Exam/turn1/CMakeLists.txt"
+		},
+		{
+			"path" : "06-Lesson6/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
