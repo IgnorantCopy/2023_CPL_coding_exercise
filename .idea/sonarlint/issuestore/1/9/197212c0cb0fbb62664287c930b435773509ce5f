@@ -1,0 +1,9 @@
+
+ic:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¦…­Ïûÿÿÿÿ8ßì½1
+nc:S3776"TRefactor this function to reduce its Cognitive Complexity from 31 to the 25 allowed.(Ôˆ™“8åÀí½1
+fc:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Á‚ˆß8§Š­í½1
+kc:S134("MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÅêÛƒúÿÿÿÿ8äÁ¿í½1
+fc:S1341"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¿¼†€8åÀí½1
+Oc:S1079"5Add a field width specifier to this "%s" placeholder.(øŠ—°8Ç±Õí½1
+Kc:S886"2Refactor this loop so that it is less error-prone.(®™­Ø8¤á«í½1
+Hc:S3562".Add a "default" case to this switch statement.(°Ó÷8¤á«í½1

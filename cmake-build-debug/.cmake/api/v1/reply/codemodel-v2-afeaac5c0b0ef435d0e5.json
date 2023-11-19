@@ -17,7 +17,8 @@
 						10,
 						12,
 						13,
-						15
+						15,
+						16
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -28,7 +29,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						72
+						79
 					]
 				},
 				{
@@ -44,12 +45,12 @@
 					"targetIndexes" : 
 					[
 						5,
-						13,
-						17,
-						22,
-						26,
-						53,
-						69
+						15,
+						20,
+						25,
+						29,
+						55,
+						74
 					]
 				},
 				{
@@ -64,12 +65,12 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						14,
-						18,
-						24,
-						60,
-						61,
-						62
+						16,
+						21,
+						27,
+						64,
+						65,
+						67
 					]
 				},
 				{
@@ -117,10 +118,10 @@
 					"targetIndexes" : 
 					[
 						3,
-						19,
-						55,
-						57,
-						66
+						22,
+						58,
+						60,
+						71
 					]
 				},
 				{
@@ -141,10 +142,10 @@
 					[
 						8,
 						9,
-						11,
-						20,
-						25,
-						50
+						12,
+						23,
+						28,
+						52
 					]
 				},
 				{
@@ -159,9 +160,9 @@
 					"source" : "03-Lesson3/Bonus",
 					"targetIndexes" : 
 					[
-						15,
-						51,
-						56
+						18,
+						53,
+						59
 					]
 				},
 				{
@@ -180,11 +181,11 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						21,
-						29,
-						31,
-						64,
-						70
+						24,
+						32,
+						34,
+						69,
+						75
 					]
 				},
 				{
@@ -199,9 +200,9 @@
 					"source" : "04-Lesson4/Bonus",
 					"targetIndexes" : 
 					[
-						27,
-						34,
-						63
+						30,
+						36,
+						68
 					]
 				},
 				{
@@ -233,8 +234,6 @@
 					[
 						6,
 						7,
-						35,
-						36,
 						37,
 						38,
 						39,
@@ -246,7 +245,9 @@
 						45,
 						46,
 						47,
-						48
+						48,
+						49,
+						50
 					]
 				},
 				{
@@ -263,11 +264,11 @@
 					[
 						4,
 						10,
-						28,
-						33,
-						49,
-						58,
-						65
+						31,
+						35,
+						51,
+						61,
+						70
 					]
 				},
 				{
@@ -297,9 +298,9 @@
 					"source" : "_Exam/turn1",
 					"targetIndexes" : 
 					[
-						12,
-						59,
-						67
+						14,
+						62,
+						72
 					]
 				},
 				{
@@ -314,14 +315,35 @@
 					"source" : "06-Lesson6",
 					"targetIndexes" : 
 					[
-						16,
-						23,
-						30,
-						32,
-						52,
+						19,
+						26,
+						33,
 						54,
-						68,
-						71
+						56,
+						73,
+						76
+					]
+				},
+				{
+					"build" : "07-Lesson7",
+					"jsonFile" : "directory-07-Lesson7-Debug-37c20df110f3484ad848.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "07-Lesson7",
+					"targetIndexes" : 
+					[
+						11,
+						13,
+						17,
+						57,
+						63,
+						66,
+						77,
+						78
 					]
 				}
 			],
@@ -346,7 +368,8 @@
 						12,
 						13,
 						14,
-						15
+						15,
+						16
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -423,7 +446,14 @@
 						69,
 						70,
 						71,
-						72
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79
 					]
 				}
 			],
@@ -507,10 +537,24 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 16,
+					"id" : "Brackets::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Brackets-Debug-c01ac5e1291275f55df0.json",
+					"name" : "Brackets",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 6,
 					"id" : "BubbleSort::@5c85bd6f1ac7de48981d",
 					"jsonFile" : "target-BubbleSort-Debug-3fe95c32824483524f4a.json",
 					"name" : "BubbleSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "Buddy::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Buddy-Debug-824bd05a79b955a528cb.json",
+					"name" : "Buddy",
 					"projectIndex" : 0
 				},
 				{
@@ -532,6 +576,13 @@
 					"id" : "Collatz::@225c51db256cbe500fae",
 					"jsonFile" : "target-Collatz-Debug-aa18bca8d990cdbff2b2.json",
 					"name" : "Collatz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "Cuboid::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Cuboid-Debug-bc9ec8c7d0e832c51aca.json",
+					"name" : "Cuboid",
 					"projectIndex" : 0
 				},
 				{
@@ -651,13 +702,6 @@
 					"id" : "Mines::@95f9a9946598e7ab2068",
 					"jsonFile" : "target-Mines-Debug-d17cedbfbe4dcb2ed007.json",
 					"name" : "Mines",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 15,
-					"id" : "New::@0432396df542767385f1",
-					"jsonFile" : "target-New-Debug-05e95705f87cc10d0b42.json",
-					"name" : "New",
 					"projectIndex" : 0
 				},
 				{
@@ -815,6 +859,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 16,
+					"id" : "Pour::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Pour-Debug-b6ab65a1017409dbf0fa.json",
+					"name" : "Pour",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 5,
 					"id" : "PrimeNumber::@852bce7720a7d0d586a3",
 					"jsonFile" : "target-PrimeNumber-Debug-fcce829af47268af5954.json",
@@ -850,6 +901,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 16,
+					"id" : "Rotate::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Rotate-Debug-9ecff144f1e5794b32ee.json",
+					"name" : "Rotate",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 2,
 					"id" : "Series::@225c51db256cbe500fae",
 					"jsonFile" : "target-Series-Debug-1551c771d9844dec931f.json",
@@ -861,6 +919,13 @@
 					"id" : "Single::@225c51db256cbe500fae",
 					"jsonFile" : "target-Single-Debug-933066b698d7da23f410.json",
 					"name" : "Single",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "Stack::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Stack-Debug-80b675fd10136e2e1bf5.json",
+					"name" : "Stack",
 					"projectIndex" : 0
 				},
 				{
@@ -931,6 +996,20 @@
 					"id" : "Triangle::@0432396df542767385f1",
 					"jsonFile" : "target-Triangle-Debug-26c82fdd8011ce6b34ef.json",
 					"name" : "Triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "WhacAMole::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-WhacAMole-Debug-3ef927a92ef8cf75f7f6.json",
+					"name" : "WhacAMole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "Wine::@a0e5c1b5f724a8fb28b3",
+					"jsonFile" : "target-Wine-Debug-5b7583334f9959bcab3c.json",
+					"name" : "Wine",
 					"projectIndex" : 0
 				},
 				{

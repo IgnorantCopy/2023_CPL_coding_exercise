@@ -100,6 +100,15 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Max.di
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Integration.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Triangle.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Decomposition.dir
-D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/New.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Wine.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Brackets.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Buddy.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/WhacAMole.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Rotate.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Pour.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Stack.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Cuboid.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/rebuild_cache.dir

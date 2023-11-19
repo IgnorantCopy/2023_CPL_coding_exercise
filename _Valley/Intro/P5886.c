@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 int nums[1000001] = {0};
-int result[1000001] = {0};
+int results[1000001] = {0};
 
 int main() {
     int n = 0;
@@ -25,13 +25,13 @@ int main() {
     int sum = 0;
     for (int i = 1; i <= m; i++) {
         if (nums[i] == p) {
-            result[sum++] = i;
+            results[sum++] = i;
         }
     }
     printf("%d\n", sum);
     sum = 0;
-    while (result[sum] != 0) {
-        printf("%d ", result[sum++]);
+    while (results[sum] != 0) {
+        printf("%d ", results[sum++]);
     }
     return 0;
 }

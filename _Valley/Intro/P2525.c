@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 int girls[9] = {0};
-int result[9] = {0};
+int results[9] = {0};
 
 int Cantos(const int arr[], int length);
 
@@ -42,17 +42,17 @@ int main() {
                 count++;
             }
         }
-        result[n - 1 - i] = ans;
+        results[n - 1 - i] = ans;
         nums[ans - 1] = 1;
     }
     for (int i = 0; i < n; i++) {
         if (nums[i] == 0) {
-            result[n - 1] = i + 1;
+            results[n - 1] = i + 1;
             break;
         }
     }
     for (int i = 0; i < n; i++) {
-        printf("%d ", result[i]);
+        printf("%d ", results[i]);
     }
     return 0;
 }
