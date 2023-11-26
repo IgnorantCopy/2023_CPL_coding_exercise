@@ -58,6 +58,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[507]完美数.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/doc/content/[507]完美数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn507" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[507]完美数.c" />
+              <option name="titleSlug" value="perfect-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[520]检测大写字母.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/doc/content/[520]检测大写字母.md" />
+              <option name="frontendQuestionId" value="leetcode.cn520" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[520]检测大写字母.c" />
+              <option name="titleSlug" value="detect-capital" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[521]最长特殊序列 Ⅰ.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/doc/content/[521]最长特殊序列 Ⅰ.md" />
+              <option name="frontendQuestionId" value="leetcode.cn521" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[521]最长特殊序列 Ⅰ.c" />
+              <option name="titleSlug" value="longest-uncommon-subsequence-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

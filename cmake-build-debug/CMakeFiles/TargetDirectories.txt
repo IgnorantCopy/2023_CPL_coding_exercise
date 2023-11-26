@@ -112,3 +112,8 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Stack.
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/Cuboid.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/07-Lesson7/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/08-Lesson8/CMakeFiles/Interpreter.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/08-Lesson8/CMakeFiles/Substr.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/08-Lesson8/CMakeFiles/Title.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/08-Lesson8/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/08-Lesson8/CMakeFiles/rebuild_cache.dir

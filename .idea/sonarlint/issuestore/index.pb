@@ -162,3 +162,13 @@ B
 07-Lesson7/Stack.c,7\a\7a5eb04ce37900c0359ccf9b2d75ee26cf3aae2b
 C
 07-Lesson7/Cuboid.c,7\f\7fd93f3f00efb5848e08ae62b16d8301c9e5c669
+H
+_LeetCode/String/0013L.c,2\4\24050442967b85471d06e67a7c7a118cf2dbe0b1
+I
+08-Lesson8/CMakeLists.txt,a\3\a32e4d2b795de109c2f270ed84638f47c0efeec6
+H
+08-Lesson8/Interpreter.c,d\2\d24ce2388fa71c9b0d8b4804976557f7b370d979
+C
+08-Lesson8/Substr.c,1\f\1f12dc367b6d442ff1143e00acb4a0d513c1a7ca
+B
+08-Lesson8/Title.c,b\2\b2ab628923e08c143ffddf66d39f92708c1c18e3

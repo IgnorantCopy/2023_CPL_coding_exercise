@@ -18,7 +18,8 @@
 						12,
 						13,
 						15,
-						16
+						16,
+						17
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -29,7 +30,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						79
+						82
 					]
 				},
 				{
@@ -48,9 +49,9 @@
 						15,
 						20,
 						25,
-						29,
-						55,
-						74
+						30,
+						56,
+						76
 					]
 				},
 				{
@@ -67,10 +68,10 @@
 					[
 						16,
 						21,
-						27,
-						64,
+						28,
 						65,
-						67
+						66,
+						68
 					]
 				},
 				{
@@ -119,9 +120,9 @@
 					[
 						3,
 						22,
-						58,
-						60,
-						71
+						59,
+						61,
+						73
 					]
 				},
 				{
@@ -144,8 +145,8 @@
 						9,
 						12,
 						23,
-						28,
-						52
+						29,
+						53
 					]
 				},
 				{
@@ -161,8 +162,8 @@
 					"targetIndexes" : 
 					[
 						18,
-						53,
-						59
+						54,
+						60
 					]
 				},
 				{
@@ -182,10 +183,10 @@
 					"targetIndexes" : 
 					[
 						24,
-						32,
-						34,
-						69,
-						75
+						33,
+						35,
+						71,
+						78
 					]
 				},
 				{
@@ -200,9 +201,9 @@
 					"source" : "04-Lesson4/Bonus",
 					"targetIndexes" : 
 					[
-						30,
-						36,
-						68
+						31,
+						37,
+						69
 					]
 				},
 				{
@@ -234,7 +235,6 @@
 					[
 						6,
 						7,
-						37,
 						38,
 						39,
 						40,
@@ -247,7 +247,8 @@
 						47,
 						48,
 						49,
-						50
+						50,
+						51
 					]
 				},
 				{
@@ -264,11 +265,11 @@
 					[
 						4,
 						10,
-						31,
-						35,
-						51,
-						61,
-						70
+						32,
+						36,
+						52,
+						62,
+						72
 					]
 				},
 				{
@@ -299,8 +300,8 @@
 					"targetIndexes" : 
 					[
 						14,
-						62,
-						72
+						63,
+						74
 					]
 				},
 				{
@@ -317,11 +318,11 @@
 					[
 						19,
 						26,
-						33,
-						54,
-						56,
-						73,
-						76
+						34,
+						55,
+						57,
+						75,
+						79
 					]
 				},
 				{
@@ -339,11 +340,28 @@
 						11,
 						13,
 						17,
-						57,
-						63,
-						66,
-						77,
-						78
+						58,
+						64,
+						67,
+						80,
+						81
+					]
+				},
+				{
+					"build" : "08-Lesson8",
+					"jsonFile" : "directory-08-Lesson8-Debug-3e043008be0a590d81fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "08-Lesson8",
+					"targetIndexes" : 
+					[
+						27,
+						70,
+						77
 					]
 				}
 			],
@@ -369,7 +387,8 @@
 						13,
 						14,
 						15,
-						16
+						16,
+						17
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -453,7 +472,10 @@
 						76,
 						77,
 						78,
-						79
+						79,
+						80,
+						81,
+						82
 					]
 				}
 			],
@@ -646,6 +668,13 @@
 					"id" : "Integration::@0432396df542767385f1",
 					"jsonFile" : "target-Integration-Debug-70209b14dd67b3d47c9e.json",
 					"name" : "Integration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "Interpreter::@41cedfc247a6db823226",
+					"jsonFile" : "target-Interpreter-Debug-3322e6652940db955922.json",
+					"name" : "Interpreter",
 					"projectIndex" : 0
 				},
 				{
@@ -943,6 +972,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 17,
+					"id" : "Substr::@41cedfc247a6db823226",
+					"jsonFile" : "target-Substr-Debug-c77f815614f4ffbba534.json",
+					"name" : "Substr",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 8,
 					"id" : "Sudoku::@95f9a9946598e7ab2068",
 					"jsonFile" : "target-Sudoku-Debug-bbf972012413c3b1e710.json",
@@ -982,6 +1018,13 @@
 					"id" : "Time::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Time-Debug-cfae8a1dba8b57b28af2.json",
 					"name" : "Time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "Title::@41cedfc247a6db823226",
+					"jsonFile" : "target-Title-Debug-8d2e1665fd1d85bee22b.json",
+					"name" : "Title",
 					"projectIndex" : 0
 				},
 				{

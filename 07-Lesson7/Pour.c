@@ -37,38 +37,17 @@ int Pour(int k, int a, int b, int c) {
     if (k == 0) {
         return 0;
     }
-    int recordA = a;
-    int recordB = b;
-    int recordC = c;
     // a --> b
-    a = 0;
-    b = (recordA + recordB) <= vb ? (recordA + recordB) : vb;
-    c = recordC;
-    int flag1 = Pour(k - 1, a, b, c);
+    int flag1 = Pour(k - 1, 0, (a + b) <= vb ? (a + b) : vb, c);
     // a --> c
-    a = 0;
-    b = recordB;
-    c = (recordA + recordC) <= vc ? (recordA + recordC) : vc;
-    int flag2 = Pour(k - 1, a, b, c);
+    int flag2 = Pour(k - 1, 0, b, (a + c) <= vc ? (a + c) : vc);
     // b --> a
-    a = (recordA + recordB) <= va ? (recordA + recordB) : va;
-    b = 0;
-    c = recordC;
-    int flag3 = Pour(k - 1, a, b, c);
+    int flag3 = Pour(k - 1, (a + b) <= va ? (a + b) : va, 0, c);
     // b --> c
-    a = recordA;
-    b = 0;
-    c = (recordB + recordC) <= vc ? (recordB + recordC) : vc;
-    int flag4 = Pour(k - 1, a, b, c);
+    int flag4 = Pour(k - 1, a, 0, (b + c) <= vc ? (b + c) : vc);
     // c --> a
-    a = (recordA + recordC) <= va ? (recordA + recordC) : va;
-    b = recordB;
-    c = 0;
-    int flag5 = Pour(k - 1, a, b, c);
+    int flag5 = Pour(k - 1, (a + c) <= va ? (a + c) : va, b, 0);
     // c --> b
-    a = recordA;
-    b = (recordB + recordC) <= vb ? (recordB + recordC) : vb;
-    c = 0;
-    int flag6 = Pour(k - 1, a, b, c);
+    int flag6 = Pour(k - 1, a, (b + c) <= vb ? (b + c) : vb, 0);
     return flag1 || flag2 || flag3 || flag4 || flag5 || flag6;
 }
