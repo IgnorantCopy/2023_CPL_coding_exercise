@@ -151,6 +151,12 @@
 		},
 		{
 			"path" : "08-Lesson8/CMakeLists.txt"
+		},
+		{
+			"path" : "09-Lesson9/CMakeLists.txt"
+		},
+		{
+			"path" : "_UOJ/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

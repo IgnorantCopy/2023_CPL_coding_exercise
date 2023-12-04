@@ -1,0 +1,5 @@
+
+kc:S134E"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‚Ÿ´£úÿÿÿÿ8Èë„™Ã1
+jc:S924%"QReduce the number of nested "break" and "goto" statements from 2 to 1 authorized.(”õÑ8­¯õÂ1
+Tc:S1079'"5Add a field width specifier to this "%s" placeholder.(«Ş˜ùÿÿÿÿ8ÙğÂ1
+`c:S999L"GThis goto statement must be replaced by a standard iteration statement.(½î­Ö8µ¯õÂ1
