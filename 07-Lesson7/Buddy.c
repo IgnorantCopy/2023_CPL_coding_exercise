@@ -44,18 +44,16 @@ int main() {
                     } else if (size < buddy[j][0]) {
                         buddy[j][0]--;
                         buddy[sum][0] = buddy[j][0];
+                        buddy[sum][3] = j;
                         if (j == sum - 1 && isSequence) {
                             start = sum;
-                            buddy[sum][3] = j;
                             buddy[sum][4] = -1;
-                            buddy[j][4] = sum;
                         } else {
                             isSequence = 0;
-                            buddy[sum][3] = j;
                             buddy[sum][4] = buddy[j][4];
                             buddy[buddy[j][4]][3] = sum;
-                            buddy[j][4] = sum;
                         }
+                        buddy[j][4] = sum;
                         j = sum++;
                     }
                 }

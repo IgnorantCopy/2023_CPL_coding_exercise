@@ -8,8 +8,6 @@
 
 char stack[10001] = {0};
 
-int isEqual(const char target[], const char str[]);
-
 void Push();
 
 void Pop();
@@ -24,31 +22,17 @@ int main() {
     for (int i = 0; i < n; i++) {
         char operation[6] = {0};
         scanf("%s", operation);
-        if (isEqual(operation, "push")) {
+        if (!strcmp(operation, "push")) {
             Push();
-        } else if (isEqual(operation, "pop")) {
+        } else if (!strcmp(operation, "pop")) {
             Pop();
-        } else if (isEqual(operation, "top")) {
+        } else if (!strcmp(operation, "top")) {
             Top();
-        } else if (isEqual(operation, "print")) {
+        } else if (!strcmp(operation, "print")) {
             Print();
         }
     }
     return 0;
-}
-
-int isEqual(const char target[], const char str[]) {
-    int len1 = strlen(target);
-    int len2 = strlen(str);
-    if (len1 != len2) {
-        return 0;
-    }
-    for (int i = 0; i < len1; i++) {
-        if (target[i] != str[i]) {
-            return 0;
-        }
-    }
-    return 1;
 }
 
 void Push() {

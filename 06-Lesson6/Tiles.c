@@ -14,11 +14,8 @@ int main() {
 }
 
 int Tiles(int n) {
-    if (n == 1) {
-        return 1;
-    }
-    if (n == 2) {
-        return 2;
+    if (n == 1 || n == 2) {
+        return n;
     }
     return Tiles(n - 1) + Tiles(n - 2);
 }

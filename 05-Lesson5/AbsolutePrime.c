@@ -31,17 +31,10 @@ int main() {
 }
 
 int reverse(int n) {
-    int ge = n % 10;
-    int shi = (n / 10) % 10;
-    int bai = (n / 100) % 10;
-    int qian = n / 1000;
-    if (qian == 0 && bai == 0 && shi == 0) {
-        return ge;
-    } else if (qian == 0 && bai == 0) {
-        return ge * 10 + shi;
-    } else if (qian == 0) {
-        return ge * 100 + shi * 10 + bai;
-    } else {
-        return ge * 1000 + shi * 100 + bai * 10 + qian;
+    int ans = 0;
+    while (n) {
+        ans = ans * 10 + n % 10;
+        n /= 10;
     }
+    return ans;
 }

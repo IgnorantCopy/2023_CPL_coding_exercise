@@ -7,7 +7,6 @@
 
 int main() {
     int n = 0;
-    int m = 1;
     int index = 0;
     int nums[2001] = {0};
     scanf("%d", &n);
@@ -15,9 +14,7 @@ int main() {
         scanf("%d", &nums[i]);
     }
     for (int i = n - 1; i > 0; i--) {
-        if (nums[i - 1] > nums[i]) {
-            m++;
-        } else {
+        if (nums[i - 1] <= nums[i]) {
             index = i - 1;
             break;
         }

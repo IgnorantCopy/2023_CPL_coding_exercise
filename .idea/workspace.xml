@@ -112,38 +112,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0965c82b-f269-47ca-be49-869503fc0067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09-Lesson9/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Lesson9/Parse.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Lesson9/Strcat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Lesson9/StrsInterleaf.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Lesson9/Tokenizer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Lesson9/new.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_UOJ/B.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_UOJ/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_UOJ/D.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_UOJ/K.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_UOJ/M.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/014d1fc7494f3016ea6f03d7b1d5a7143761e82d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/014d1fc7494f3016ea6f03d7b1d5a7143761e82d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54125076abee49cbaffff352b85cb644a9fdc27d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54125076abee49cbaffff352b85cb644a9fdc27d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d241c00bb4657d012ae1054241580c1dd749961" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d241c00bb4657d012ae1054241580c1dd749961" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a5eb04ce37900c0359ccf9b2d75ee26cf3aae2b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a5eb04ce37900c0359ccf9b2d75ee26cf3aae2b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fb15e86ace97eea250476019c574ca963324f95" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fb15e86ace97eea250476019c574ca963324f95" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/949ff34d5cfd5564beac427295aa6cd74710b116" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/949ff34d5cfd5564beac427295aa6cd74710b116" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Lesson4/Bonus/Statistics.c" beforeDir="false" afterPath="$PROJECT_DIR$/04-Lesson4/Bonus/Statistics.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Lesson8/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08-Lesson8/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Exam/turn1/Reverse.c" beforeDir="false" afterPath="$PROJECT_DIR$/_Exam/turn1/Reverse.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-045ecdb7c0f674136563.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3646304d4990340bd6ff.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f66ed6b190082ad3abc3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-26T05-36-54-0532.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Lesson5/AbsolutePrime.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/AbsolutePrime.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Lesson5/MagicSquare.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/MagicSquare.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Lesson5/NextPermutation.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/NextPermutation.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Lesson5/Pair.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/Pair.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Lesson6/Tiles.c" beforeDir="false" afterPath="$PROJECT_DIR$/06-Lesson6/Tiles.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Lesson7/Buddy.c" beforeDir="false" afterPath="$PROJECT_DIR$/07-Lesson7/Buddy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Lesson7/Stack.c" beforeDir="false" afterPath="$PROJECT_DIR$/07-Lesson7/Stack.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Lesson9/new.c" beforeDir="false" afterPath="$PROJECT_DIR$/09-Lesson9/new.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +205,7 @@
       <recent name="D:\codes\2023_CPL_coding_exercise\04-Lesson4\Bouns" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Tokenizer">
+  <component name="RunManager" selected="CMake Application.Poi">
     <configuration name="0013L" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="0013L" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="0013L">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -876,6 +862,8 @@
       <workItem from="1701567021536" duration="19343000" />
       <workItem from="1701592595143" duration="990000" />
       <workItem from="1701664201213" duration="1842000" />
+      <workItem from="1701754907211" duration="272000" />
+      <workItem from="1701945401052" duration="7645000" />
     </task>
     <servers />
   </component>
@@ -1050,31 +1038,6 @@
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/05-Lesson5/NextPermutation.c</url>
-          <line>16</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/05-Lesson5/NextPermutation.c</url>
-          <line>24</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/05-Lesson5/NextPermutation.c</url>
-          <line>37</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/05-Lesson5/NextPermutation.c</url>
-          <line>32</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/05-Lesson5/Pair.c</url>
-          <line>23</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/_Valley/Intro/P1789.c</url>
           <line>58</line>
           <option name="timeStamp" value="97" />
@@ -1131,7 +1094,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/07-Lesson7/Buddy.c</url>
-          <line>62</line>
+          <line>60</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -1143,11 +1106,6 @@
           <url>file://$PROJECT_DIR$/07-Lesson7/WhacAMole.c</url>
           <line>36</line>
           <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/07-Lesson7/Stack.c</url>
-          <line>25</line>
-          <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/07-Lesson7/Cuboid.c</url>
@@ -1204,12 +1162,16 @@
           <line>39</line>
           <option name="timeStamp" value="142" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/05-Lesson5/MagicSquare.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="input" language="ObjectiveC" />
-        <watch expression="output" language="ObjectiveC" />
+        <watch expression="square" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>

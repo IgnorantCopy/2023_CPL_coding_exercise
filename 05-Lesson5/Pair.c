@@ -31,8 +31,8 @@ int pair(const int arr1[], const int arr2[], int target, int len1, int len2) {
     for (int i = 0; i < len2; i++) {
         int left = 0;
         int right = len1 - 1;
-        int mid = (left + right) / 2;
         while (left <= right) {
+            int mid = (left + right) / 2;
             int temp = target - arr1[mid] - arr2[i];
             if (temp < 0) {
                 right = mid - 1;
@@ -47,9 +47,7 @@ int pair(const int arr1[], const int arr2[], int target, int len1, int len2) {
             } else {
                 return 0;
             }
-            mid = (left + right) / 2;
         }
-
     }
     return min;
 }

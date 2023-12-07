@@ -14,20 +14,15 @@ int main() {
     for (int i = 2; i <= n * n; i++) {
         x = (x + 1 > n - 1) ? 0 : x + 1;
         y = (y - 1 < 0) ? n - 1 : y - 1;
-        if (square[y][x] == 0) {
-            square[y][x] = i;
-        } else {
+        if (square[y][x] != 0) {
             x = (x == 0) ? n - 1 : x - 1;
             y = (y == n - 1) ? 1 : y + 2;
-            square[y][x] = i;
         }
+        square[y][x] = i;
     }
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
-            printf("%d ", square[i][j]);
-        }
-        if (i != n - 1) {
-            printf("\n");
+            printf("%d%c", square[i][j], "\n"[j != n - 1]);
         }
     }
     return 0;
