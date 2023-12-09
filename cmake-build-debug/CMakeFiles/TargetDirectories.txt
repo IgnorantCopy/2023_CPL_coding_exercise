@@ -75,6 +75,11 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P57
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/B2006.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/B2095.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P1739.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P2955.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P6056.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P5534.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P5708.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/P3741.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/05-Lesson5/CMakeFiles/Behaviors.dir
@@ -93,6 +98,8 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/Ticta
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/ByeJonaBell.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Pascal.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Tiles.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Poi.dir

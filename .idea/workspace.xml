@@ -11,98 +11,103 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="2023_CPL_coding_exercise" targetName="Time" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Cuboid" />
       <config projectName="2023_CPL_coding_exercise" targetName="Collatz" />
       <config projectName="2023_CPL_coding_exercise" targetName="K" />
       <config projectName="2023_CPL_coding_exercise" targetName="Obstacle" />
       <config projectName="2023_CPL_coding_exercise" targetName="Gravity" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Buddy" />
       <config projectName="2023_CPL_coding_exercise" targetName="B2006" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Single" />
       <config projectName="2023_CPL_coding_exercise" targetName="B" />
       <config projectName="2023_CPL_coding_exercise" targetName="Max" />
-      <config projectName="2023_CPL_coding_exercise" targetName="0014L" />
       <config projectName="2023_CPL_coding_exercise" targetName="D" />
-      <config projectName="2023_CPL_coding_exercise" targetName="PrimeNumber" />
       <config projectName="2023_CPL_coding_exercise" targetName="BalanceTernary1" />
       <config projectName="2023_CPL_coding_exercise" targetName="Series" />
       <config projectName="2023_CPL_coding_exercise" targetName="Trace" />
       <config projectName="2023_CPL_coding_exercise" targetName="Rotate" />
       <config projectName="2023_CPL_coding_exercise" targetName="BalanceTernary2" />
-      <config projectName="2023_CPL_coding_exercise" targetName="BubbleSort" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P5886" />
       <config projectName="2023_CPL_coding_exercise" targetName="MatrixMult" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Palindrome1" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Equation" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Palindrome2" />
       <config projectName="2023_CPL_coding_exercise" targetName="new2" />
       <config projectName="2023_CPL_coding_exercise" targetName="Julian" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Strcat" />
       <config projectName="2023_CPL_coding_exercise" targetName="Quine" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Mines" />
       <config projectName="2023_CPL_coding_exercise" targetName="P3717" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P1739" />
       <config projectName="2023_CPL_coding_exercise" targetName="M" />
       <config projectName="2023_CPL_coding_exercise" targetName="Decimal" />
       <config projectName="2023_CPL_coding_exercise" targetName="B2095" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Wine" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Substr" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P4326" />
       <config projectName="2023_CPL_coding_exercise" targetName="P5734" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P4327" />
       <config projectName="2023_CPL_coding_exercise" targetName="Inverse" />
       <config projectName="2023_CPL_coding_exercise" targetName="Triangle" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Factorial2" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Behaviors" />
-      <config projectName="2023_CPL_coding_exercise" targetName="ByeJonaBell" />
       <config projectName="2023_CPL_coding_exercise" targetName="Decomposition" />
       <config projectName="2023_CPL_coding_exercise" targetName="Tokenizer" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Reverse" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P2084" />
       <config projectName="2023_CPL_coding_exercise" targetName="Parse" />
       <config projectName="2023_CPL_coding_exercise" targetName="QuickSort" />
       <config projectName="2023_CPL_coding_exercise" targetName="Sudoku" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Statistics" />
       <config projectName="2023_CPL_coding_exercise" targetName="P2676" />
       <config projectName="2023_CPL_coding_exercise" targetName="Tiles" />
       <config projectName="2023_CPL_coding_exercise" targetName="Life" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Flip" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P5708" />
       <config projectName="2023_CPL_coding_exercise" targetName="Stack" />
       <config projectName="2023_CPL_coding_exercise" targetName="Tictactoe" />
       <config projectName="2023_CPL_coding_exercise" targetName="P2956" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P1789" />
-      <config projectName="2023_CPL_coding_exercise" targetName="SuperCalculator" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P2955" />
       <config projectName="2023_CPL_coding_exercise" targetName="Formation" />
       <config projectName="2023_CPL_coding_exercise" targetName="Title" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Josephus" />
       <config projectName="2023_CPL_coding_exercise" targetName="Poi" />
       <config projectName="2023_CPL_coding_exercise" targetName="WhacAMole" />
       <config projectName="2023_CPL_coding_exercise" targetName="Ascii" />
-      <config projectName="2023_CPL_coding_exercise" targetName="APlusB" />
       <config projectName="2023_CPL_coding_exercise" targetName="Sum" />
-      <config projectName="2023_CPL_coding_exercise" targetName="NextPermutation" />
-      <config projectName="2023_CPL_coding_exercise" targetName="MagicSquare" />
-      <config projectName="2023_CPL_coding_exercise" targetName="new" />
       <config projectName="2023_CPL_coding_exercise" targetName="Integration" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Brackets" />
       <config projectName="2023_CPL_coding_exercise" targetName="0013L" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P1830" />
-      <config projectName="2023_CPL_coding_exercise" targetName="P2006" />
       <config projectName="2023_CPL_coding_exercise" targetName="Pour" />
-      <config projectName="2023_CPL_coding_exercise" targetName="0020L" />
       <config projectName="2023_CPL_coding_exercise" targetName="Pair" />
       <config projectName="2023_CPL_coding_exercise" targetName="Pi" />
       <config projectName="2023_CPL_coding_exercise" targetName="Pascal" />
       <config projectName="2023_CPL_coding_exercise" targetName="Change" />
       <config projectName="2023_CPL_coding_exercise" targetName="StrsInterleaf" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Factorial1" />
       <config projectName="2023_CPL_coding_exercise" targetName="StandUp" />
+      <config projectName="2023_CPL_coding_exercise" targetName="AbsolutePrime" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Interpreter" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Time" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Cuboid" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Buddy" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Single" />
+      <config projectName="2023_CPL_coding_exercise" targetName="0014L" />
+      <config projectName="2023_CPL_coding_exercise" targetName="PrimeNumber" />
+      <config projectName="2023_CPL_coding_exercise" targetName="BubbleSort" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P5886" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P3741" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Palindrome1" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Equation" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Palindrome2" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Strcat" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Mines" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P1739" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P5534" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Wine" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Substr" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P4326" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P4327" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Factorial2" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Behaviors" />
+      <config projectName="2023_CPL_coding_exercise" targetName="ByeJonaBell" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Reverse" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P2084" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Statistics" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Flip" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P1789" />
+      <config projectName="2023_CPL_coding_exercise" targetName="SuperCalculator" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Josephus" />
+      <config projectName="2023_CPL_coding_exercise" targetName="APlusB" />
+      <config projectName="2023_CPL_coding_exercise" targetName="NextPermutation" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P6056" />
+      <config projectName="2023_CPL_coding_exercise" targetName="MagicSquare" />
+      <config projectName="2023_CPL_coding_exercise" targetName="new" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Brackets" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P1830" />
+      <config projectName="2023_CPL_coding_exercise" targetName="P2006" />
+      <config projectName="2023_CPL_coding_exercise" targetName="0020L" />
+      <config projectName="2023_CPL_coding_exercise" targetName="Factorial1" />
       <config projectName="2023_CPL_coding_exercise" targetName="Radix" />
       <config projectName="2023_CPL_coding_exercise" targetName="P2525" />
-      <config projectName="2023_CPL_coding_exercise" targetName="AbsolutePrime" />
       <config projectName="2023_CPL_coding_exercise" targetName="P2524" />
-      <config projectName="2023_CPL_coding_exercise" targetName="Interpreter" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -112,24 +117,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0965c82b-f269-47ca-be49-869503fc0067" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/014d1fc7494f3016ea6f03d7b1d5a7143761e82d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/014d1fc7494f3016ea6f03d7b1d5a7143761e82d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54125076abee49cbaffff352b85cb644a9fdc27d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54125076abee49cbaffff352b85cb644a9fdc27d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d241c00bb4657d012ae1054241580c1dd749961" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d241c00bb4657d012ae1054241580c1dd749961" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a5eb04ce37900c0359ccf9b2d75ee26cf3aae2b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a5eb04ce37900c0359ccf9b2d75ee26cf3aae2b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fb15e86ace97eea250476019c574ca963324f95" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fb15e86ace97eea250476019c574ca963324f95" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/949ff34d5cfd5564beac427295aa6cd74710b116" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/949ff34d5cfd5564beac427295aa6cd74710b116" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Exam/turn2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Valley/Intro/P2955.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Valley/Intro/P3741.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Valley/Intro/P5534.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Valley/Intro/P5708.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_Valley/Intro/P6056.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f12dc367b6d442ff1143e00acb4a0d513c1a7ca" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f12dc367b6d442ff1143e00acb4a0d513c1a7ca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2ab628923e08c143ffddf66d39f92708c1c18e3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2ab628923e08c143ffddf66d39f92708c1c18e3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Lesson5/AbsolutePrime.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/AbsolutePrime.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Lesson5/MagicSquare.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/MagicSquare.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Lesson5/NextPermutation.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/NextPermutation.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Lesson5/Pair.c" beforeDir="false" afterPath="$PROJECT_DIR$/05-Lesson5/Pair.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Lesson6/Tiles.c" beforeDir="false" afterPath="$PROJECT_DIR$/06-Lesson6/Tiles.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Lesson7/Buddy.c" beforeDir="false" afterPath="$PROJECT_DIR$/07-Lesson7/Buddy.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Lesson7/Stack.c" beforeDir="false" afterPath="$PROJECT_DIR$/07-Lesson7/Stack.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Lesson9/new.c" beforeDir="false" afterPath="$PROJECT_DIR$/09-Lesson9/new.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Lesson8/Substr.c" beforeDir="false" afterPath="$PROJECT_DIR$/08-Lesson8/Substr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Lesson8/Title.c" beforeDir="false" afterPath="$PROJECT_DIR$/08-Lesson8/Title.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Exam/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_Exam/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Valley/Intro/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_Valley/Intro/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-523b201859bf843c2648.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ed77a3c15bb5e0c4db33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4262969ef81a25350933.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-03T03-05-48-0160.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_Exam/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_Exam/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,26 +186,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/codes/2023_CPL_coding_exercise/09-Lesson9/CMakeLists.txt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\codes\2023_CPL_coding_exercise\_Valley" />
@@ -205,7 +219,12 @@
       <recent name="D:\codes\2023_CPL_coding_exercise\04-Lesson4\Bouns" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Poi">
+  <component name="RunManager" selected="CMake Application.P3741">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="0013L" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="0013L" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="0013L">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -456,12 +475,22 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2955" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P2955" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P2955">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P2956" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P2956" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P2956">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="P3717" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P3717" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P3717">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3741" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P3741" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P3741">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -476,12 +505,27 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P5534" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P5534" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P5534">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P5708" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P5708" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P5708">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P5734" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P5734" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P5734">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="P5886" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P5886" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P5886">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6056" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_CPL_coding_exercise" TARGET_NAME="P6056" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_CPL_coding_exercise" RUN_TARGET_NAME="P6056">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -684,12 +728,17 @@
       <item itemvalue="CMake Application.P2524" />
       <item itemvalue="CMake Application.P2525" />
       <item itemvalue="CMake Application.P2676" />
+      <item itemvalue="CMake Application.P2955" />
       <item itemvalue="CMake Application.P2956" />
       <item itemvalue="CMake Application.P3717" />
+      <item itemvalue="CMake Application.P3741" />
       <item itemvalue="CMake Application.P4326" />
       <item itemvalue="CMake Application.P4327" />
+      <item itemvalue="CMake Application.P5534" />
+      <item itemvalue="CMake Application.P5708" />
       <item itemvalue="CMake Application.P5734" />
       <item itemvalue="CMake Application.P5886" />
+      <item itemvalue="CMake Application.P6056" />
       <item itemvalue="CMake Application.APlusB" />
       <item itemvalue="CMake Application.AbsolutePrime" />
       <item itemvalue="CMake Application.Ascii" />
@@ -864,6 +913,9 @@
       <workItem from="1701664201213" duration="1842000" />
       <workItem from="1701754907211" duration="272000" />
       <workItem from="1701945401052" duration="7645000" />
+      <workItem from="1702015013480" duration="12000" />
+      <workItem from="1702045500360" duration="999000" />
+      <workItem from="1702082917584" duration="7879000" />
     </task>
     <servers />
   </component>
@@ -1123,11 +1175,6 @@
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/08-Lesson8/Title.c</url>
-          <line>21</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/09-Lesson9/Strcat.c</url>
           <line>15</line>
           <option name="timeStamp" value="132" />
@@ -1167,13 +1214,13 @@
           <line>22</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/_Valley/Intro/P6056.c</url>
+          <line>18</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="CMakeRunConfiguration">
-        <watch expression="square" language="ObjectiveC" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

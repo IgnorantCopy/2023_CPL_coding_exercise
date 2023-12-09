@@ -2163,6 +2163,171 @@ build _Valley/Intro/P1739.exe: C_EXECUTABLE_LINKER__P1739_Debug _Valley/Intro/CM
   TARGET_IMPLIB = _Valley\Intro\libP1739.dll.a
   TARGET_PDB = P1739.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target P2955
+
+
+#############################################
+# Order-only phony target for P2955
+
+build cmake_object_order_depends_target_P2955: phony || _Valley/Intro/CMakeFiles/P2955.dir
+
+build _Valley/Intro/CMakeFiles/P2955.dir/P2955.c.obj: C_COMPILER__P2955_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P2955.c || cmake_object_order_depends_target_P2955
+  DEP_FILE = _Valley\Intro\CMakeFiles\P2955.dir\P2955.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2955.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P2955.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2955
+
+
+#############################################
+# Link the executable _Valley\Intro\P2955.exe
+
+build _Valley/Intro/P2955.exe: C_EXECUTABLE_LINKER__P2955_Debug _Valley/Intro/CMakeFiles/P2955.dir/P2955.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P2955.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P2955.exe
+  TARGET_IMPLIB = _Valley\Intro\libP2955.dll.a
+  TARGET_PDB = P2955.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P6056
+
+
+#############################################
+# Order-only phony target for P6056
+
+build cmake_object_order_depends_target_P6056: phony || _Valley/Intro/CMakeFiles/P6056.dir
+
+build _Valley/Intro/CMakeFiles/P6056.dir/P6056.c.obj: C_COMPILER__P6056_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P6056.c || cmake_object_order_depends_target_P6056
+  DEP_FILE = _Valley\Intro\CMakeFiles\P6056.dir\P6056.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P6056.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P6056.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P6056
+
+
+#############################################
+# Link the executable _Valley\Intro\P6056.exe
+
+build _Valley/Intro/P6056.exe: C_EXECUTABLE_LINKER__P6056_Debug _Valley/Intro/CMakeFiles/P6056.dir/P6056.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P6056.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P6056.exe
+  TARGET_IMPLIB = _Valley\Intro\libP6056.dll.a
+  TARGET_PDB = P6056.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5534
+
+
+#############################################
+# Order-only phony target for P5534
+
+build cmake_object_order_depends_target_P5534: phony || _Valley/Intro/CMakeFiles/P5534.dir
+
+build _Valley/Intro/CMakeFiles/P5534.dir/P5534.c.obj: C_COMPILER__P5534_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P5534.c || cmake_object_order_depends_target_P5534
+  DEP_FILE = _Valley\Intro\CMakeFiles\P5534.dir\P5534.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5534.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P5534.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5534
+
+
+#############################################
+# Link the executable _Valley\Intro\P5534.exe
+
+build _Valley/Intro/P5534.exe: C_EXECUTABLE_LINKER__P5534_Debug _Valley/Intro/CMakeFiles/P5534.dir/P5534.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5534.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P5534.exe
+  TARGET_IMPLIB = _Valley\Intro\libP5534.dll.a
+  TARGET_PDB = P5534.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5708
+
+
+#############################################
+# Order-only phony target for P5708
+
+build cmake_object_order_depends_target_P5708: phony || _Valley/Intro/CMakeFiles/P5708.dir
+
+build _Valley/Intro/CMakeFiles/P5708.dir/P5708.c.obj: C_COMPILER__P5708_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P5708.c || cmake_object_order_depends_target_P5708
+  DEP_FILE = _Valley\Intro\CMakeFiles\P5708.dir\P5708.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5708.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P5708.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5708
+
+
+#############################################
+# Link the executable _Valley\Intro\P5708.exe
+
+build _Valley/Intro/P5708.exe: C_EXECUTABLE_LINKER__P5708_Debug _Valley/Intro/CMakeFiles/P5708.dir/P5708.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P5708.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P5708.exe
+  TARGET_IMPLIB = _Valley\Intro\libP5708.dll.a
+  TARGET_PDB = P5708.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P3741
+
+
+#############################################
+# Order-only phony target for P3741
+
+build cmake_object_order_depends_target_P3741: phony || _Valley/Intro/CMakeFiles/P3741.dir
+
+build _Valley/Intro/CMakeFiles/P3741.dir/P3741.c.obj: C_COMPILER__P3741_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/P3741.c || cmake_object_order_depends_target_P3741
+  DEP_FILE = _Valley\Intro\CMakeFiles\P3741.dir\P3741.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P3741.dir
+  OBJECT_FILE_DIR = _Valley\Intro\CMakeFiles\P3741.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P3741
+
+
+#############################################
+# Link the executable _Valley\Intro\P3741.exe
+
+build _Valley/Intro/P3741.exe: C_EXECUTABLE_LINKER__P3741_Debug _Valley/Intro/CMakeFiles/P3741.dir/P3741.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Valley\Intro\CMakeFiles\P3741.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Valley\Intro\P3741.exe
+  TARGET_IMPLIB = _Valley\Intro\libP3741.dll.a
+  TARGET_PDB = P3741.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2599,6 +2764,34 @@ build _Exam/turn1/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
   restat = 1
 
 build _Exam/turn1/rebuild_cache: phony _Exam/turn1/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build _Exam/turn2/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\_Exam\turn2 && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build _Exam/turn2/edit_cache: phony _Exam/turn2/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build _Exam/turn2/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\codes\2023_CPL_coding_exercise\cmake-build-debug\_Exam\turn2 && "D:\Program Files\apps\CLion\ch-0\232.9921.42\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\codes\2023_CPL_coding_exercise -BD:\codes\2023_CPL_coding_exercise\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build _Exam/turn2/rebuild_cache: phony _Exam/turn2/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
@@ -3834,6 +4027,10 @@ build P2676: phony _Valley/Intro/P2676.exe
 
 build P2676.exe: phony _Valley/Intro/P2676.exe
 
+build P2955: phony _Valley/Intro/P2955.exe
+
+build P2955.exe: phony _Valley/Intro/P2955.exe
+
 build P2956: phony _Valley/Intro/P2956.exe
 
 build P2956.exe: phony _Valley/Intro/P2956.exe
@@ -3841,6 +4038,10 @@ build P2956.exe: phony _Valley/Intro/P2956.exe
 build P3717: phony _Valley/Intro/P3717.exe
 
 build P3717.exe: phony _Valley/Intro/P3717.exe
+
+build P3741: phony _Valley/Intro/P3741.exe
+
+build P3741.exe: phony _Valley/Intro/P3741.exe
 
 build P4326: phony _Valley/Intro/P4326.exe
 
@@ -3850,6 +4051,14 @@ build P4327: phony _Valley/Intro/P4327.exe
 
 build P4327.exe: phony _Valley/Intro/P4327.exe
 
+build P5534: phony _Valley/Intro/P5534.exe
+
+build P5534.exe: phony _Valley/Intro/P5534.exe
+
+build P5708: phony _Valley/Intro/P5708.exe
+
+build P5708.exe: phony _Valley/Intro/P5708.exe
+
 build P5734: phony _Valley/Intro/P5734.exe
 
 build P5734.exe: phony _Valley/Intro/P5734.exe
@@ -3857,6 +4066,10 @@ build P5734.exe: phony _Valley/Intro/P5734.exe
 build P5886: phony _Valley/Intro/P5886.exe
 
 build P5886.exe: phony _Valley/Intro/P5886.exe
+
+build P6056: phony _Valley/Intro/P6056.exe
+
+build P6056.exe: phony _Valley/Intro/P6056.exe
 
 build Pair: phony 05-Lesson5/Pair.exe
 
@@ -4099,7 +4312,7 @@ build _BonusQuestion/all: phony _BonusQuestion/Factorial2.exe _BonusQuestion/Pri
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam
 
-build _Exam/all: phony _Exam/turn1/all
+build _Exam/all: phony _Exam/turn1/all _Exam/turn2/all
 
 # =============================================================================
 
@@ -4107,6 +4320,13 @@ build _Exam/all: phony _Exam/turn1/all
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn1
 
 build _Exam/turn1/all: phony _Exam/turn1/Reverse.exe _Exam/turn1/Tictactoe.exe _Exam/turn1/ByeJonaBell.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2
+
+build _Exam/turn2/all: phony
 
 # =============================================================================
 
@@ -4141,7 +4361,7 @@ build _Valley/all: phony _Valley/Intro/all
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Valley/Intro
 
-build _Valley/Intro/all: phony _Valley/Intro/P4327.exe _Valley/Intro/P4326.exe _Valley/Intro/P2084.exe _Valley/Intro/P1789.exe _Valley/Intro/P1830.exe _Valley/Intro/P2006.exe _Valley/Intro/P2525.exe _Valley/Intro/P2524.exe _Valley/Intro/P2676.exe _Valley/Intro/P2956.exe _Valley/Intro/P3717.exe _Valley/Intro/P5886.exe _Valley/Intro/P5734.exe _Valley/Intro/B2006.exe _Valley/Intro/B2095.exe _Valley/Intro/P1739.exe
+build _Valley/Intro/all: phony _Valley/Intro/P4327.exe _Valley/Intro/P4326.exe _Valley/Intro/P2084.exe _Valley/Intro/P1789.exe _Valley/Intro/P1830.exe _Valley/Intro/P2006.exe _Valley/Intro/P2525.exe _Valley/Intro/P2524.exe _Valley/Intro/P2676.exe _Valley/Intro/P2956.exe _Valley/Intro/P3717.exe _Valley/Intro/P5886.exe _Valley/Intro/P5734.exe _Valley/Intro/B2006.exe _Valley/Intro/B2095.exe _Valley/Intro/P1739.exe _Valley/Intro/P2955.exe _Valley/Intro/P6056.exe _Valley/Intro/P5534.exe _Valley/Intro/P5708.exe _Valley/Intro/P3741.exe
 
 # =============================================================================
 # Built-in targets
@@ -4150,14 +4370,14 @@ build _Valley/Intro/all: phony _Valley/Intro/P4327.exe _Valley/Intro/P4326.exe _
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/06-Lesson6/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/07-Lesson7/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/08-Lesson8/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/09-Lesson9/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_UOJ/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/06-Lesson6/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/07-Lesson7/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/08-Lesson8/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/09-Lesson9/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_UOJ/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/06-Lesson6/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/07-Lesson7/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/08-Lesson8/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/09-Lesson9/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_UOJ/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake D$:/Program$ Files/apps/CLion/ch-0/232.9921.42/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake D$:/codes/2023_CPL_coding_exercise/01-Lesson1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/02-Lesson2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/03-Lesson3/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/Bonus/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/04-Lesson4/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/05-Lesson5/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/06-Lesson6/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/07-Lesson7/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/08-Lesson8/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/09-Lesson9/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_BonusQuestion/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn1/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Exam/turn2/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_LeetCode/String/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_UOJ/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/CMakeLists.txt D$:/codes/2023_CPL_coding_exercise/_Valley/Intro/CMakeLists.txt: phony
 
 
 #############################################

@@ -12,17 +12,10 @@ int main() {
     char *str2 = malloc(sizeof(*str2) * 100000);
     scanf("%s", str1);
     scanf("%s", str2);
-    for (int i = 0; i <= strlen(str1) - strlen(str2); i++) {
-        int isSame = 1;
-        for (int j = 0; j < strlen(str2); j++) {
-            if (*(str2 + j) != *(str1 + i + j)) {
-                isSame = 0;
-                break;
-            }
-        }
-        if (isSame) {
-            printf("%d ", i);
-        }
+    const char *temp = str1;
+    while ((temp = strstr(temp, str2)) != NULL) {
+        printf("%d ", temp - str1);
+        temp++;
     }
     free(str1);
     free(str2);

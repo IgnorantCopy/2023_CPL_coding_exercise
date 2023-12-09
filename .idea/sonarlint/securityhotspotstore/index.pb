@@ -194,3 +194,15 @@ C
 09-Lesson9/new.c,9\4\949ff34d5cfd5564beac427295aa6cd74710b116
 F
 09-Lesson9/Tokenizer.c,b\f\bfa169d3829140f15aa4c15e23a460905585fac9
+J
+_Exam/turn2/CMakeLists.txt,f\d\fddbcbe668876bdf8e0044828a571a72e92e3ead
+E
+_Valley/Intro/P2955.c,2\5\258c63078ced17eec3ef7ce933f872a8850e9c47
+E
+_Valley/Intro/P6056.c,c\b\cb67a4e15920bc4ab76cb4503287c3bde90429fe
+E
+_Valley/Intro/P5534.c,0\3\03335678c66a1710e9d9c6fcee001768280585d9
+E
+_Valley/Intro/P5708.c,e\7\e78b0068c840fdc1aee9b35125f10ecb297bbe36
+E
+_Valley/Intro/P3741.c,1\8\18fded69178c332bdba399faa498b6881ea4b84d

@@ -10,16 +10,13 @@
 
 int main() {
     char *str = malloc(sizeof(*str) * 4096);
-    gets(str);
-    *str = toupper(*(str));
-    for (int i = 1; i < strlen(str); i++) {
-        if (*(str + i - 1) == ' ') {
-            *(str + i) = toupper(*(str + i));
-        } else if (*(str + i) != ' ') {
+    while ((scanf("%s", str)) != EOF) {
+        *str = toupper(*str);
+        for (int i = 1; *(str + i) != 0; i++) {
             *(str + i) = tolower(*(str + i));
         }
+        printf("%s ", str);
     }
-    printf("%s", str);
     free(str);
     return 0;
 }
