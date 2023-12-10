@@ -2770,6 +2770,105 @@ build _Exam/turn1/rebuild_cache: phony _Exam/turn1/CMakeFiles/rebuild_cache.util
 # D:/codes/2023_CPL_coding_exercise/_Exam/CMakeLists.txt
 # =============================================================================
 
+# =============================================================================
+# Object build statements for EXECUTABLE target FakeNews
+
+
+#############################################
+# Order-only phony target for FakeNews
+
+build cmake_object_order_depends_target_FakeNews: phony || _Exam/turn2/CMakeFiles/FakeNews.dir
+
+build _Exam/turn2/CMakeFiles/FakeNews.dir/FakeNews.c.obj: C_COMPILER__FakeNews_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Exam/turn2/FakeNews.c || cmake_object_order_depends_target_FakeNews
+  DEP_FILE = _Exam\turn2\CMakeFiles\FakeNews.dir\FakeNews.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Exam\turn2\CMakeFiles\FakeNews.dir
+  OBJECT_FILE_DIR = _Exam\turn2\CMakeFiles\FakeNews.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target FakeNews
+
+
+#############################################
+# Link the executable _Exam\turn2\FakeNews.exe
+
+build _Exam/turn2/FakeNews.exe: C_EXECUTABLE_LINKER__FakeNews_Debug _Exam/turn2/CMakeFiles/FakeNews.dir/FakeNews.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Exam\turn2\CMakeFiles\FakeNews.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Exam\turn2\FakeNews.exe
+  TARGET_IMPLIB = _Exam\turn2\libFakeNews.dll.a
+  TARGET_PDB = FakeNews.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CodedLock
+
+
+#############################################
+# Order-only phony target for CodedLock
+
+build cmake_object_order_depends_target_CodedLock: phony || _Exam/turn2/CMakeFiles/CodedLock.dir
+
+build _Exam/turn2/CMakeFiles/CodedLock.dir/CodedLock.c.obj: C_COMPILER__CodedLock_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Exam/turn2/CodedLock.c || cmake_object_order_depends_target_CodedLock
+  DEP_FILE = _Exam\turn2\CMakeFiles\CodedLock.dir\CodedLock.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Exam\turn2\CMakeFiles\CodedLock.dir
+  OBJECT_FILE_DIR = _Exam\turn2\CMakeFiles\CodedLock.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CodedLock
+
+
+#############################################
+# Link the executable _Exam\turn2\CodedLock.exe
+
+build _Exam/turn2/CodedLock.exe: C_EXECUTABLE_LINKER__CodedLock_Debug _Exam/turn2/CMakeFiles/CodedLock.dir/CodedLock.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Exam\turn2\CMakeFiles\CodedLock.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Exam\turn2\CodedLock.exe
+  TARGET_IMPLIB = _Exam\turn2\libCodedLock.dll.a
+  TARGET_PDB = CodedLock.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target WanderBell
+
+
+#############################################
+# Order-only phony target for WanderBell
+
+build cmake_object_order_depends_target_WanderBell: phony || _Exam/turn2/CMakeFiles/WanderBell.dir
+
+build _Exam/turn2/CMakeFiles/WanderBell.dir/WanderBell.c.obj: C_COMPILER__WanderBell_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/_Exam/turn2/WanderBell.c || cmake_object_order_depends_target_WanderBell
+  DEP_FILE = _Exam\turn2\CMakeFiles\WanderBell.dir\WanderBell.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = _Exam\turn2\CMakeFiles\WanderBell.dir
+  OBJECT_FILE_DIR = _Exam\turn2\CMakeFiles\WanderBell.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target WanderBell
+
+
+#############################################
+# Link the executable _Exam\turn2\WanderBell.exe
+
+build _Exam/turn2/WanderBell.exe: C_EXECUTABLE_LINKER__WanderBell_Debug _Exam/turn2/CMakeFiles/WanderBell.dir/WanderBell.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = _Exam\turn2\CMakeFiles\WanderBell.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = _Exam\turn2\WanderBell.exe
+  TARGET_IMPLIB = _Exam\turn2\libWanderBell.dll.a
+  TARGET_PDB = WanderBell.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3576,39 +3675,6 @@ build 09-Lesson9/Parse.exe: C_EXECUTABLE_LINKER__Parse_Debug 09-Lesson9/CMakeFil
   TARGET_PDB = Parse.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target new2
-
-
-#############################################
-# Order-only phony target for new2
-
-build cmake_object_order_depends_target_new2: phony || 09-Lesson9/CMakeFiles/new2.dir
-
-build 09-Lesson9/CMakeFiles/new2.dir/new.c.obj: C_COMPILER__new2_unscanned_Debug D$:/codes/2023_CPL_coding_exercise/09-Lesson9/new.c || cmake_object_order_depends_target_new2
-  DEP_FILE = 09-Lesson9\CMakeFiles\new2.dir\new.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = 09-Lesson9\CMakeFiles\new2.dir
-  OBJECT_FILE_DIR = 09-Lesson9\CMakeFiles\new2.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target new2
-
-
-#############################################
-# Link the executable 09-Lesson9\new2.exe
-
-build 09-Lesson9/new2.exe: C_EXECUTABLE_LINKER__new2_Debug 09-Lesson9/CMakeFiles/new2.dir/new.c.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = 09-Lesson9\CMakeFiles\new2.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 09-Lesson9\new2.exe
-  TARGET_IMPLIB = 09-Lesson9\libnew2.dll.a
-  TARGET_PDB = new2.exe.dbg
-
-# =============================================================================
 # Object build statements for EXECUTABLE target Tokenizer
 
 
@@ -3895,6 +3961,10 @@ build Change: phony 01-Lesson1/Change.exe
 
 build Change.exe: phony 01-Lesson1/Change.exe
 
+build CodedLock: phony _Exam/turn2/CodedLock.exe
+
+build CodedLock.exe: phony _Exam/turn2/CodedLock.exe
+
 build Collatz: phony 02-Lesson2/Collatz.exe
 
 build Collatz.exe: phony 02-Lesson2/Collatz.exe
@@ -3926,6 +3996,10 @@ build Factorial1.exe: phony 02-Lesson2/Factorial1.exe
 build Factorial2: phony _BonusQuestion/Factorial2.exe
 
 build Factorial2.exe: phony _BonusQuestion/Factorial2.exe
+
+build FakeNews: phony _Exam/turn2/FakeNews.exe
+
+build FakeNews.exe: phony _Exam/turn2/FakeNews.exe
 
 build Flip: phony 03-Lesson3/Flip.exe
 
@@ -4199,6 +4273,10 @@ build Triangle: phony 06-Lesson6/Triangle.exe
 
 build Triangle.exe: phony 06-Lesson6/Triangle.exe
 
+build WanderBell: phony _Exam/turn2/WanderBell.exe
+
+build WanderBell.exe: phony _Exam/turn2/WanderBell.exe
+
 build WhacAMole: phony 07-Lesson7/WhacAMole.exe
 
 build WhacAMole.exe: phony 07-Lesson7/WhacAMole.exe
@@ -4208,10 +4286,6 @@ build Wine: phony 07-Lesson7/Wine.exe
 build Wine.exe: phony 07-Lesson7/Wine.exe
 
 build new: phony new.exe
-
-build new2: phony 09-Lesson9/new2.exe
-
-build new2.exe: phony 09-Lesson9/new2.exe
 
 # =============================================================================
 # Folder targets.
@@ -4298,7 +4372,7 @@ build 08-Lesson8/all: phony 08-Lesson8/Interpreter.exe 08-Lesson8/Substr.exe 08-
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/09-Lesson9
 
-build 09-Lesson9/all: phony 09-Lesson9/Strcat.exe 09-Lesson9/StrsInterleaf.exe 09-Lesson9/Parse.exe 09-Lesson9/new2.exe 09-Lesson9/Tokenizer.exe
+build 09-Lesson9/all: phony 09-Lesson9/Strcat.exe 09-Lesson9/StrsInterleaf.exe 09-Lesson9/Parse.exe 09-Lesson9/Tokenizer.exe
 
 # =============================================================================
 
@@ -4326,7 +4400,7 @@ build _Exam/turn1/all: phony _Exam/turn1/Reverse.exe _Exam/turn1/Tictactoe.exe _
 #############################################
 # Folder: D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2
 
-build _Exam/turn2/all: phony
+build _Exam/turn2/all: phony _Exam/turn2/FakeNews.exe _Exam/turn2/CodedLock.exe _Exam/turn2/WanderBell.exe
 
 # =============================================================================
 

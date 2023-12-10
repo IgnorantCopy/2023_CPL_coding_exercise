@@ -206,3 +206,11 @@ E
 _Valley/Intro/P5708.c,e\7\e78b0068c840fdc1aee9b35125f10ecb297bbe36
 E
 _Valley/Intro/P3741.c,1\8\18fded69178c332bdba399faa498b6881ea4b84d
+F
+_Exam/turn2/FakeNews.c,b\f\bf2f91522d51aed8b25a8948ecfcf97d564163de
+G
+_Exam/turn2/CodedLock.c,4\a\4af0b5d515c68bbc8a42544569b0cae90573185d
+H
+_Exam/turn2/WanderBell.c,2\e\2ebc05e2930a242f7ea3b9735443c1f80ef2a685
+A
+_Exam/turn2/new.c,d\3\d3fe600fafabdbd79685150262db0024b85e4568

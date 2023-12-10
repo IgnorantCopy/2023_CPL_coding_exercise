@@ -32,7 +32,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						95
+						98
 					]
 				},
 				{
@@ -49,11 +49,11 @@
 					[
 						5,
 						16,
-						22,
-						27,
-						32,
-						66,
-						88
+						23,
+						29,
+						34,
+						68,
+						90
 					]
 				},
 				{
@@ -68,12 +68,12 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						17,
-						23,
-						30,
-						75,
-						76,
-						78
+						18,
+						24,
+						32,
+						77,
+						78,
+						80
 					]
 				},
 				{
@@ -121,10 +121,10 @@
 					"targetIndexes" : 
 					[
 						3,
-						24,
-						69,
+						25,
 						71,
-						85
+						73,
+						87
 					]
 				},
 				{
@@ -146,9 +146,9 @@
 						9,
 						10,
 						13,
-						25,
-						31,
-						62
+						27,
+						33,
+						64
 					]
 				},
 				{
@@ -163,9 +163,9 @@
 					"source" : "03-Lesson3/Bonus",
 					"targetIndexes" : 
 					[
-						20,
-						63,
-						70
+						21,
+						65,
+						72
 					]
 				},
 				{
@@ -184,11 +184,11 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						26,
-						37,
+						28,
 						39,
-						83,
-						91
+						41,
+						85,
+						93
 					]
 				},
 				{
@@ -203,9 +203,9 @@
 					"source" : "04-Lesson4/Bonus",
 					"targetIndexes" : 
 					[
-						34,
-						41,
-						79
+						36,
+						43,
+						81
 					]
 				},
 				{
@@ -237,8 +237,6 @@
 					[
 						7,
 						8,
-						42,
-						43,
 						44,
 						45,
 						46,
@@ -255,7 +253,9 @@
 						57,
 						58,
 						59,
-						60
+						60,
+						61,
+						62
 					]
 				},
 				{
@@ -272,11 +272,11 @@
 					[
 						4,
 						11,
-						36,
-						40,
-						61,
-						72,
-						84
+						38,
+						42,
+						63,
+						74,
+						86
 					]
 				},
 				{
@@ -308,8 +308,8 @@
 					"targetIndexes" : 
 					[
 						15,
-						73,
-						86
+						75,
+						88
 					]
 				},
 				{
@@ -321,7 +321,13 @@
 					},
 					"parentIndex" : 13,
 					"projectIndex" : 0,
-					"source" : "_Exam/turn2"
+					"source" : "_Exam/turn2",
+					"targetIndexes" : 
+					[
+						17,
+						26,
+						95
+					]
 				},
 				{
 					"build" : "06-Lesson6",
@@ -335,13 +341,13 @@
 					"source" : "06-Lesson6",
 					"targetIndexes" : 
 					[
-						21,
-						28,
-						38,
-						65,
+						22,
+						30,
+						40,
 						67,
-						87,
-						92
+						69,
+						89,
+						94
 					]
 				},
 				{
@@ -358,12 +364,12 @@
 					[
 						12,
 						14,
-						18,
-						68,
-						74,
-						77,
-						93,
-						94
+						19,
+						70,
+						76,
+						79,
+						96,
+						97
 					]
 				},
 				{
@@ -378,9 +384,9 @@
 					"source" : "08-Lesson8",
 					"targetIndexes" : 
 					[
-						29,
-						82,
-						89
+						31,
+						84,
+						91
 					]
 				},
 				{
@@ -395,11 +401,10 @@
 					"source" : "09-Lesson9",
 					"targetIndexes" : 
 					[
-						64,
-						80,
-						81,
-						90,
-						96
+						66,
+						82,
+						83,
+						92
 					]
 				},
 				{
@@ -415,9 +420,9 @@
 					"targetIndexes" : 
 					[
 						6,
-						19,
-						33,
-						35
+						20,
+						35,
+						37
 					]
 				}
 			],
@@ -548,7 +553,9 @@
 						93,
 						94,
 						95,
-						96
+						96,
+						97,
+						98
 					]
 				}
 			],
@@ -674,6 +681,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 15,
+					"id" : "CodedLock::@d0ee002a49699e5247d4",
+					"jsonFile" : "target-CodedLock-Debug-edccb5c16d1ca695ad04.json",
+					"name" : "CodedLock",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 2,
 					"id" : "Collatz::@225c51db256cbe500fae",
 					"jsonFile" : "target-Collatz-Debug-aa18bca8d990cdbff2b2.json",
@@ -727,6 +741,13 @@
 					"id" : "Factorial2::@852bce7720a7d0d586a3",
 					"jsonFile" : "target-Factorial2-Debug-188b66d48115e867840f.json",
 					"name" : "Factorial2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "FakeNews::@d0ee002a49699e5247d4",
+					"jsonFile" : "target-FakeNews-Debug-d624a379965b4aeb00e1.json",
+					"name" : "FakeNews",
 					"projectIndex" : 0
 				},
 				{
@@ -1187,7 +1208,7 @@
 				{
 					"directoryIndex" : 19,
 					"id" : "Tokenizer::@1f852fa459fbccb3552a",
-					"jsonFile" : "target-Tokenizer-Debug-36b3f26ff3fcc6b7b6ab.json",
+					"jsonFile" : "target-Tokenizer-Debug-4b389ec7720d87a0178e.json",
 					"name" : "Tokenizer",
 					"projectIndex" : 0
 				},
@@ -1203,6 +1224,13 @@
 					"id" : "Triangle::@0432396df542767385f1",
 					"jsonFile" : "target-Triangle-Debug-26c82fdd8011ce6b34ef.json",
 					"name" : "Triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "WanderBell::@d0ee002a49699e5247d4",
+					"jsonFile" : "target-WanderBell-Debug-25b3b5dfe8aafdad1501.json",
+					"name" : "WanderBell",
 					"projectIndex" : 0
 				},
 				{
@@ -1224,13 +1252,6 @@
 					"id" : "new::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-new-Debug-c5ae3b8ead501ae8b5ab.json",
 					"name" : "new",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 19,
-					"id" : "new2::@1f852fa459fbccb3552a",
-					"jsonFile" : "target-new2-Debug-aaa939dcff2bf429ba20.json",
-					"name" : "new2",
 					"projectIndex" : 0
 				}
 			]

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "09-Lesson9/Tokenizer.exe"
+			"path" : "_Exam/turn2/WanderBell.exe"
 		},
 		{
-			"path" : "09-Lesson9/Tokenizer.pdb"
+			"path" : "_Exam/turn2/WanderBell.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"09-Lesson9/CMakeLists.txt"
+			"_Exam/turn2/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 5,
+				"line" : 3,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Tokenizer::@1f852fa459fbccb3552a",
+	"id" : "WanderBell::@d0ee002a49699e5247d4",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Tokenizer",
-	"nameOnDisk" : "Tokenizer.exe",
+	"name" : "WanderBell",
+	"nameOnDisk" : "WanderBell.exe",
 	"paths" : 
 	{
-		"build" : "09-Lesson9",
-		"source" : "09-Lesson9"
+		"build" : "_Exam/turn2",
+		"source" : "_Exam/turn2"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "09-Lesson9/Tokenizer.c",
+			"path" : "_Exam/turn2/WanderBell.c",
 			"sourceGroupIndex" : 0
 		}
 	],

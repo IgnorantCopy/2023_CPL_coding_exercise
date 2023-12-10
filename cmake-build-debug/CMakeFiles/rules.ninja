@@ -1352,6 +1352,63 @@ rule C_EXECUTABLE_LINKER__ByeJonaBell_Debug
 #############################################
 # Rule for compiling C files.
 
+rule C_COMPILER__FakeNews_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__FakeNews_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
+rule C_COMPILER__CodedLock_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__CodedLock_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
+rule C_COMPILER__WanderBell_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__WanderBell_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
 rule C_COMPILER__Pascal_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -1743,25 +1800,6 @@ rule C_COMPILER__Parse_unscanned_Debug
 # Rule for linking C executable.
 
 rule C_EXECUTABLE_LINKER__Parse_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
-  description = Linking C executable $TARGET_FILE
-  restat = $RESTAT
-
-
-#############################################
-# Rule for compiling C files.
-
-rule C_COMPILER__new2_unscanned_Debug
-  depfile = $DEP_FILE
-  deps = gcc
-  command = D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
-  description = Building C object $out
-
-
-#############################################
-# Rule for linking C executable.
-
-rule C_EXECUTABLE_LINKER__new2_Debug
   command = cmd.exe /C "$PRE_LINK && D:\PROGRA~2\apps\CLion\ch-0\232992~1.42\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
