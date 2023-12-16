@@ -21,7 +21,8 @@
 						17,
 						18,
 						19,
-						20
+						20,
+						21
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -32,7 +33,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						98
+						104
 					]
 				},
 				{
@@ -48,12 +49,12 @@
 					"targetIndexes" : 
 					[
 						5,
-						16,
-						23,
-						29,
-						34,
-						68,
-						90
+						17,
+						26,
+						33,
+						38,
+						72,
+						96
 					]
 				},
 				{
@@ -68,12 +69,12 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						18,
-						24,
-						32,
-						77,
-						78,
-						80
+						19,
+						27,
+						36,
+						82,
+						83,
+						86
 					]
 				},
 				{
@@ -121,10 +122,12 @@
 					"targetIndexes" : 
 					[
 						3,
+						20,
 						25,
-						71,
-						73,
-						87
+						28,
+						76,
+						78,
+						93
 					]
 				},
 				{
@@ -143,12 +146,12 @@
 					"source" : "03-Lesson3",
 					"targetIndexes" : 
 					[
-						9,
 						10,
-						13,
-						27,
-						33,
-						64
+						11,
+						14,
+						31,
+						37,
+						68
 					]
 				},
 				{
@@ -163,9 +166,9 @@
 					"source" : "03-Lesson3/Bonus",
 					"targetIndexes" : 
 					[
-						21,
-						65,
-						72
+						23,
+						69,
+						77
 					]
 				},
 				{
@@ -184,11 +187,11 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						28,
-						39,
-						41,
-						85,
-						93
+						32,
+						43,
+						45,
+						91,
+						99
 					]
 				},
 				{
@@ -203,9 +206,9 @@
 					"source" : "04-Lesson4/Bonus",
 					"targetIndexes" : 
 					[
-						36,
-						43,
-						81
+						40,
+						47,
+						87
 					]
 				},
 				{
@@ -237,10 +240,6 @@
 					[
 						7,
 						8,
-						44,
-						45,
-						46,
-						47,
 						48,
 						49,
 						50,
@@ -255,7 +254,11 @@
 						59,
 						60,
 						61,
-						62
+						62,
+						63,
+						64,
+						65,
+						66
 					]
 				},
 				{
@@ -271,12 +274,12 @@
 					"targetIndexes" : 
 					[
 						4,
-						11,
-						38,
+						12,
 						42,
-						63,
-						74,
-						86
+						46,
+						67,
+						79,
+						92
 					]
 				},
 				{
@@ -307,9 +310,9 @@
 					"source" : "_Exam/turn1",
 					"targetIndexes" : 
 					[
-						15,
-						75,
-						88
+						16,
+						80,
+						94
 					]
 				},
 				{
@@ -324,9 +327,9 @@
 					"source" : "_Exam/turn2",
 					"targetIndexes" : 
 					[
-						17,
-						26,
-						95
+						18,
+						29,
+						101
 					]
 				},
 				{
@@ -341,13 +344,13 @@
 					"source" : "06-Lesson6",
 					"targetIndexes" : 
 					[
-						22,
-						30,
-						40,
-						67,
-						69,
-						89,
-						94
+						24,
+						34,
+						44,
+						71,
+						73,
+						95,
+						100
 					]
 				},
 				{
@@ -362,14 +365,14 @@
 					"source" : "07-Lesson7",
 					"targetIndexes" : 
 					[
-						12,
-						14,
-						19,
-						70,
-						76,
-						79,
-						96,
-						97
+						13,
+						15,
+						21,
+						75,
+						81,
+						85,
+						102,
+						103
 					]
 				},
 				{
@@ -384,9 +387,9 @@
 					"source" : "08-Lesson8",
 					"targetIndexes" : 
 					[
-						31,
-						84,
-						91
+						35,
+						90,
+						97
 					]
 				},
 				{
@@ -401,10 +404,10 @@
 					"source" : "09-Lesson9",
 					"targetIndexes" : 
 					[
-						66,
-						82,
-						83,
-						92
+						70,
+						88,
+						89,
+						98
 					]
 				},
 				{
@@ -420,9 +423,27 @@
 					"targetIndexes" : 
 					[
 						6,
-						20,
-						35,
-						37
+						22,
+						39,
+						41
+					]
+				},
+				{
+					"build" : "10-Lesson10",
+					"jsonFile" : "directory-10-Lesson10-Debug-79fe9843473d7153276a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "10-Lesson10",
+					"targetIndexes" : 
+					[
+						9,
+						30,
+						74,
+						84
 					]
 				}
 			],
@@ -452,7 +473,8 @@
 						17,
 						18,
 						19,
-						20
+						20,
+						21
 					],
 					"name" : "2023_CPL_coding_exercise",
 					"targetIndexes" : 
@@ -555,7 +577,13 @@
 						95,
 						96,
 						97,
-						98
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104
 					]
 				}
 			],
@@ -622,6 +650,13 @@
 					"id" : "B2095::@9a0199e84b384777d5df",
 					"jsonFile" : "target-B2095-Debug-d0a8ec5ee77a49d821e8.json",
 					"name" : "B2095",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "BSearch::@9af4928e4b138c3afcb1",
+					"jsonFile" : "target-BSearch-Debug-7081ebf0db54e38fcad0.json",
+					"name" : "BSearch",
 					"projectIndex" : 0
 				},
 				{
@@ -695,6 +730,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 5,
+					"id" : "Cube::@852bce7720a7d0d586a3",
+					"jsonFile" : "target-Cube-Debug-754cfd7456f0b484eb79.json",
+					"name" : "Cube",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 17,
 					"id" : "Cuboid::@a0e5c1b5f724a8fb28b3",
 					"jsonFile" : "target-Cuboid-Debug-bc9ec8c7d0e832c51aca.json",
@@ -723,6 +765,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 5,
+					"id" : "Elf::@852bce7720a7d0d586a3",
+					"jsonFile" : "target-Elf-Debug-b355d1fe250b3974c007.json",
+					"name" : "Elf",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Equation::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Equation-Debug-384be9a721ce79285f79.json",
@@ -748,6 +797,13 @@
 					"id" : "FakeNews::@d0ee002a49699e5247d4",
 					"jsonFile" : "target-FakeNews-Debug-d624a379965b4aeb00e1.json",
 					"name" : "FakeNews",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "Fifa::@9af4928e4b138c3afcb1",
+					"jsonFile" : "target-Fifa-Debug-cb25c064c5ba5bea2e57.json",
+					"name" : "Fifa",
 					"projectIndex" : 0
 				},
 				{
@@ -1052,6 +1108,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 21,
+					"id" : "Polynlist::@9af4928e4b138c3afcb1",
+					"jsonFile" : "target-Polynlist-Debug-bad7b9b1ec4ae96d29b4.json",
+					"name" : "Polynlist",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 17,
 					"id" : "Pour::@a0e5c1b5f724a8fb28b3",
 					"jsonFile" : "target-Pour-Debug-b6ab65a1017409dbf0fa.json",
@@ -1112,6 +1175,13 @@
 					"id" : "Single::@225c51db256cbe500fae",
 					"jsonFile" : "target-Single-Debug-933066b698d7da23f410.json",
 					"name" : "Single",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "SplitSort::@9af4928e4b138c3afcb1",
+					"jsonFile" : "target-SplitSort-Debug-d0a812d3da6737b495d3.json",
+					"name" : "SplitSort",
 					"projectIndex" : 0
 				},
 				{
@@ -1266,6 +1336,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }
