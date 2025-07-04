@@ -1,4 +1,4 @@
-D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/new.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/Sort.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/01-Lesson1/CMakeFiles/Ascii.dir
@@ -32,6 +32,7 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/Su
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/Quine.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/Elf.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/Cube.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/Sudoku2.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_BonusQuestion/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/03-Lesson3/CMakeFiles/Palindrome1.dir
@@ -105,6 +106,21 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2/CMakeFiles/Coded
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2/CMakeFiles/WanderBell.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/turn2/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/Checker.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/UnrolledLinkedList.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/Merge.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/BalanceTernary.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/Recog.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/new.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/Life2.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/Score.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2022Final/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2021Final/CMakeFiles/Sorted.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2021Final/CMakeFiles/BinarySearch.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2021Final/CMakeFiles/GoBang.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2021Final/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/_Exam/2021Final/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Pascal.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Tiles.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/06-Lesson6/CMakeFiles/Poi.dir
@@ -147,3 +163,7 @@ D:/codes/2023_CPL_coding_exercise/cmake-build-debug/10-Lesson10/CMakeFiles/Fifa.
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/10-Lesson10/CMakeFiles/Polynlist.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/10-Lesson10/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_exercise/cmake-build-debug/10-Lesson10/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/11-Lesson11/CMakeFiles/StackPour.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/11-Lesson11/CMakeFiles/Keyboard.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/11-Lesson11/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_exercise/cmake-build-debug/11-Lesson11/CMakeFiles/rebuild_cache.dir

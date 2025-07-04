@@ -104,8 +104,6 @@ L
 05-Lesson5/NextPermutation.c,6\d\6d241c00bb4657d012ae1054241580c1dd749961
 A
 05-Lesson5/Pair.c,b\a\ba39a6340fe008dc09e355913e30b7e12def4ac2
-5
-new.c,1\d\1da68bd2e1a2ed6ea59ed1f51b5a5abf57328e27
 G
 _Exam/turn1/Tictactoe.c,8\4\84b83b8c4f966cc992b9f312b065afedff13349e
 I
@@ -224,3 +222,39 @@ B
 10-Lesson10/Fifa.c,b\c\bc7b959a1218cda095e37b91f1b034f2d18d041d
 G
 10-Lesson10/Polynlist.c,d\1\d1c8d738654809d5714fe790749c1048409fb279
+6
+Sort.c,f\7\f7f8a51cf0aaeeb35df103e254a13ff9eb69cfaf
+O
+04-Lesson4/Bonus/CMakeLists.txt,0\9\09144966f69a9422e83b1c384ed95aece3bd2780
+G
+04-Lesson4/Bonus/Life.c,f\3\f3c42b231c94c78043e21f5b1da693629080b46b
+N
+_Exam/2022Final/CMakeLists.txt,2\6\2688eb4ca046887c412f2009d7ee4b379ee8535f
+I
+_Exam/2022Final/Checker.c,b\5\b57435af13ad0fc636f9f73d017e3d90dbf6c099
+G
+_Exam/2022Final/Merge.c,1\2\12ab8f7aa1acf7c40a87a129f19edd8b77582c64
+P
+ _Exam/2022Final/BalanceTernary.c,b\1\b1513c1d1aad85fd8153b1387c2b26dc7c123c3f
+G
+_Exam/2022Final/Recog.c,4\8\4888373a00630a7862f4d2d203aa8b8ed5373d3d
+F
+_Exam/2022Final/Life.c,7\8\78deaafcad374ae15e5510bbea9fefcb0ed7e85a
+G
+_Exam/2022Final/Score.c,a\f\af307c022f33ab5fa193f095bccbc5029e5d0755
+J
+11-Lesson11/CMakeLists.txt,d\e\de081aca64694b8d066dfa31268623934f045e8d
+G
+11-Lesson11/StackPour.c,5\5\5598e58d20177775d9a5c859cae415e69263f4c2
+F
+11-Lesson11/Keyboard.c,d\2\d29cd1e243f87138acec40fb44de1002e548945d
+N
+_Exam/2021Final/CMakeLists.txt,e\8\e85047a8c63e8b5e18446bae55347e345be0658e
+H
+_Exam/2021Final/Sorted.c,6\4\64a94f2b0597914cdf34656943ca2f05e7c5251b
+N
+_Exam/2021Final/BinarySearch.c,3\1\31154540b95c6b7e12ad2929db1ea3711f2344b5
+H
+_Exam/2021Final/GoBang.c,c\1\c1667127f3461f73b57db68ebc8fc9578402dc8b
+G
+_BonusQuestion/Sudoku.c,c\5\c576f6f926e1cafef2906782067989e77f78b799

@@ -1,8 +1,8 @@
 
-ic:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÛìçÅşÿÿÿÿ8¡öŸÌÂ1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¾ÿ²Ï8¡öŸÌÂ1
 nc:S3776"TRefactor this function to reduce its Cognitive Complexity from 34 to the 25 allowed.(Ôˆ™“8«Œ¹ÌÂ1
-kc:S134)"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ŠÄ÷³şÿÿÿÿ8®­ÃÌÂ1
-kc:S1344"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Õ¡åùÿÿÿÿ8®­ÃÌÂ1
-Oc:S1079"5Add a field width specifier to this "%s" placeholder.(»¼Íƒ8¡öŸÌÂ1
+fc:S134)"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(²ÉÅæ8®­ÃÌÂ1
+kc:S1344"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ƒÌÅÌüÿÿÿÿ8®­ÃÌÂ1
+Tc:S1079"5Add a field width specifier to this "%s" placeholder.(ı Äúıÿÿÿÿ8¡öŸÌÂ1
 Hc:S3562$".Add a "default" case to this switch statement.(ÁÅ®8¸«ÊÌÂ1
 Pc:S8863"2Refactor this loop so that it is less error-prone.( Ììëÿÿÿÿÿ8ƒæÄÌÂ1

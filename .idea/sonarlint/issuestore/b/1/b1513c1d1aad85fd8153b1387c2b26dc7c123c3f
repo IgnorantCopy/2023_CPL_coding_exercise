@@ -1,0 +1,11 @@
+
+dc:S5276?"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(„¿Ø8‡˜º×Ê1
+zc:S5276\"[implicit conversion from 'size_t' (aka 'unsigned long long') to 'double' may lose precision(Ø”¦Ôøÿÿÿÿ8Ë¹×Ê1
+nc:S5276\"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(Ø”¦Ôøÿÿÿÿ8Ë¹×Ê1
+zc:S5276c"[implicit conversion from 'size_t' (aka 'unsigned long long') to 'double' may lose precision(¢¬—åÿÿÿÿÿ8Ë¹×Ê1
+nc:S5276c"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(¢¬—åÿÿÿÿÿ8Ë¹×Ê1
+Oc:S1079"5Add a field width specifier to this "%s" placeholder.(‡ÃìÃ8úÙÊÖÊ1
+nc:S3776%"TRefactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.(ÃŸ“Ÿ8‹˜º×Ê1
+Tc:S1079&"5Add a field width specifier to this "%s" placeholder.(¬‰Ø×üÿÿÿÿ8ˆË¹×Ê1
+Jc:S8862"2Refactor this loop so that it is less error-prone.(¸üP8ÙÛ½×Ê1
+Tc:S1079O"5Add a field width specifier to this "%s" placeholder.(¬‰Ø×üÿÿÿÿ8“˜º×Ê1

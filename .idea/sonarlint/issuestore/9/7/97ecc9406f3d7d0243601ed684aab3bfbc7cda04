@@ -1,0 +1,11 @@
+
+kc:S5276#"Limplicit conversion from 'unsigned long long' to 'double' may lose precision(Ø«åÆøÿÿÿÿ8š“ÍÊ1
+tc:S5276#"Uimplicit conversion turns floating-point number into integer: 'double' to 'long long'(Ø«åÆøÿÿÿÿ8š“ÍÊ1
+fc:S5276+"Limplicit conversion from 'unsigned long long' to 'double' may lose precision(È¶†¼8š“ÍÊ1
+oc:S5276+"Uimplicit conversion turns floating-point number into integer: 'double' to 'long long'(È¶†¼8š“ÍÊ1
+nc:S3776
+"TRefactor this function to reduce its Cognitive Complexity from 27 to the 25 allowed.(Ôˆ™“8š“ÍÊ1
+fc:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¾î·Ë8š“ÍÊ1
+ec:S134&"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(€÷ä^8‘š“ÍÊ1
+Tc:S1079"5Add a field width specifier to this "%s" placeholder.(ĞËŒ¡şÿÿÿÿ8’š“ÍÊ1
+dc:S924"FReduce the number of nested "break" statements from 4 to 1 authorized.(Åöÿ®üÿÿÿÿ8“š“ÍÊ1

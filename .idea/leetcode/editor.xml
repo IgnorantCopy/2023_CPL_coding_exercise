@@ -91,6 +91,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[2171]拿出最少数目的魔法豆.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/doc/content/[2171]拿出最少数目的魔法豆.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2171" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[2171]拿出最少数目的魔法豆.c" />
+              <option name="titleSlug" value="removing-minimum-number-of-magic-beans" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../LeetCode/Temp/leetcode/editor/cn/[21]合并两个有序链表.c">
           <value>
             <LeetcodeEditor>

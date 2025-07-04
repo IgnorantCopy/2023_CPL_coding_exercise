@@ -1,0 +1,8 @@
+add_executable(Checker Checker.c)
+add_executable(UnrolledLinkedList UnrolledLinkedList.c)
+add_executable(Merge Merge.c)
+add_executable(BalanceTernary BalanceTernary.c)
+add_executable(Recog Recog.c)
+add_executable(new ../../new.c)
+add_executable(Life2 Life.c)
+add_executable(Score Score.c)

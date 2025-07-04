@@ -10,7 +10,7 @@ int main() {
     int n = 0;
     scanf("%d", &t);
     int isRight[t];
-    long long int max;
+    int max;
     for (int i = 0; i < t; i++) {
         max = -1000000000;
         scanf("%d", &n);
